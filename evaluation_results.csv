@@ -1,0 +1,188 @@
+query,label,predicted_label,confidence
+Who are all the authors in your database?,authors,authors,0.9727920889854431
+Show me the complete list of authors.,authors,authors,0.9735327959060669
+I need a full list of authors available.,authors,authors,0.9665200114250183
+Could you display all the author names?,authors,authors,0.9736574292182922
+Give me all the authors in the system.,authors,authors,0.9616183042526245
+List every author recorded in the database.,authors,authors,0.9737822413444519
+Fetch the names of all the authors.,authors,authors,0.9736654758453369
+Provide a roster of all authors.,authors,authors,0.9636409282684326
+Display all authors for me.,authors,authors,0.9335060119628906
+Show me the registered authors.,authors,authors,0.9638583064079285
+Retrieve the complete list of authors.,authors,authors,0.9737551808357239
+Can you list all the authors?,authors,authors,0.9688429832458496
+Enumerate every author in the dataset.,authors,authors,0.975470781326294
+Which authors are currently available?,authors,authors,0.9698897004127502
+Show all the author profiles.,authors,authors,0.9668944478034973
+Display a list of all author names.,authors,authors,0.9709229469299316
+Give me a summary of the authors.,authors,authors,0.9633278846740723
+List all the individuals who are authors.,authors,authors,0.9721472263336182
+Provide the names of every author in the system.,authors,authors,0.9647576212882996
+Show me the entire author database.,authors,authors,0.9707472920417786
+List the authors who presented at the ICML conference.,authors_by_conference,authors_by_conference,0.6989887356758118
+Show authors for the NeurIPS conference.,authors_by_conference,authors_by_conference,0.9178034663200378
+Who are the speakers at the ACL conference?,authors_by_conference,authors_by_conference,0.881225049495697
+Display the names of authors from the CVPR conference.,authors_by_conference,authors_by_conference,0.8524876236915588
+Give me a list of authors who participated in SIGGRAPH.,authors_by_conference,authors_by_conference,0.8695170283317566
+Retrieve authors based on their conference participation.,authors_by_conference,authors,0.8482024669647217
+Which authors attended the ECCV conference?,authors_by_conference,authors_by_conference,0.9234172701835632
+Show me authors from the KDD conference.,authors_by_conference,authors_by_conference,0.9097820520401001
+Find authors that presented at the AAAI conference.,authors_by_conference,authors_by_conference,0.7589989900588989
+List the authors featured in the EMNLP conference.,authors_by_conference,authors_by_conference,0.9249634146690369
+Display all authors from the NAACL conference.,authors_by_conference,authors_by_conference,0.8978414535522461
+Who are the conference authors at ICLR?,authors_by_conference,authors_by_conference,0.9382486343383789
+Fetch the list of authors from the SIGMOD conference.,authors_by_conference,authors_by_conference,0.8559600710868835
+Provide the names of authors from the WWW conference.,authors_by_conference,authors_by_conference,0.76726895570755
+Which authors contributed at the ICASSP conference?,authors_by_conference,authors_by_conference,0.9520862102508545
+Show me the names of authors from international conferences.,authors_by_conference,authors,0.7021239995956421
+List all authors by their conference appearances.,authors_by_conference,authors,0.7981467247009277
+Retrieve authors from the COLT conference.,authors_by_conference,authors_by_conference,0.8509185910224915
+Display conference authors from the ECML PKDD event.,authors_by_conference,authors_by_conference,0.9613260626792908
+Who are the presenters at the EMNLP conference?,authors_by_conference,authors_by_conference,0.9622151255607605
+Show the list of authors from the ACL conference.,authors_by_conference,authors_by_conference,0.8289507627487183
+List the authors affiliated with MIT.,authors_by_organization,authors,0.6697373390197754
+Show me authors affiliated with Stanford University.,authors_by_organization,authors_by_organization,0.6043846607208252
+Who are the authors working at Google?,authors_by_organization,authors,0.7403393387794495
+Display authors from the University of Oxford.,authors_by_organization,authors,0.5455284118652344
+Give me a list of authors linked to IBM.,authors_by_organization,authors,0.8376635909080505
+Find authors associated with Harvard University.,authors_by_organization,authors_by_organization,0.6789976954460144
+I need the names of authors from Microsoft.,authors_by_organization,authors,0.7394583225250244
+Retrieve authors from the organization Amazon.,authors_by_organization,authors_by_organization,0.7106080055236816
+Which authors are affiliated with Facebook?,authors_by_organization,authors,0.7063469290733337
+Show authors who work at Tesla.,authors_by_organization,authors,0.48415160179138184
+List authors from Caltech.,authors_by_organization,authors_by_organization,0.8881508708000183
+Display authors from Carnegie Mellon University.,authors_by_organization,authors_by_organization,0.7258390784263611
+Provide names of authors from Intel.,authors_by_organization,authors,0.796271026134491
+Who are the authors at Apple?,authors_by_organization,authors,0.6547837853431702
+Fetch authors from NVIDIA.,authors_by_organization,authors,0.5584306716918945
+List the researchers from UC Berkeley.,authors_by_organization,authors,0.493529736995697
+Show me authors working at IBM Research.,authors_by_organization,authors,0.44997140765190125
+Get the list of authors from Google AI.,authors_by_organization,authors_by_organization,0.431001752614975
+Retrieve authors affiliated with Princeton University.,authors_by_organization,authors_by_organization,0.6370903253555298
+Display authors from ETH Zurich.,authors_by_organization,authors_by_organization,0.4655609726905823
+List authors connected to Stanford.,authors_by_organization,authors_by_organization,0.5797436237335205
+What organizations do these authors represent?,authors_by_organization,authors,0.5542360544204712
+What conferences are listed in the database?,conferences,organizations,0.5751506090164185
+Show me all the upcoming conferences.,conferences,conferences,0.751427948474884
+List all the academic conferences available.,conferences,conferences,0.5119298100471497
+Display the conference schedule.,conferences,conferences,0.631126880645752
+I need a list of all conferences.,conferences,organizations,0.4270801842212677
+Provide the names of all conferences.,conferences,organizations,0.43707019090652466
+Retrieve the conference calendar.,conferences,conferences,0.5482977032661438
+Which conferences are currently active?,conferences,conferences,0.6365702152252197
+Show me international conferences.,conferences,conferences,0.5601764917373657
+Display every conference in the system.,conferences,organizations,0.5251277089118958
+Get details of each scheduled conference.,conferences,conferences,0.7276997566223145
+Which conferences are happening this year?,conferences,conferences,0.8806138038635254
+List conferences planned for this year.,conferences,conferences,0.897182047367096
+Show upcoming academic conferences.,conferences,conferences,0.7458311319351196
+Retrieve all conference names.,conferences,organizations,0.5151311755180359
+Provide a schedule of conference events.,conferences,conferences,0.6391382813453674
+Enumerate the conferences available.,conferences,conferences,0.4249957501888275
+Display conferences along with their dates.,conferences,conferences,0.7173357009887695
+Give me the list of major conferences.,conferences,organizations,0.43461668491363525
+Which conferences are organized annually?,conferences,conferences,0.5035328269004822
+Show me the conference lineup.,conferences,conferences,0.6824255585670471
+What organizations are included in the database?,organizations,organizations,0.9839280247688293
+Show me all the organizations.,organizations,organizations,0.9729428291320801
+List all organizations available.,organizations,organizations,0.9724957346916199
+Display the complete list of organizations.,organizations,organizations,0.9752500057220459
+Provide a directory of organizations.,organizations,organizations,0.9697213172912598
+Retrieve details for all organizations.,organizations,organizations,0.9765060544013977
+Which organizations are in the system?,organizations,organizations,0.9813763499259949
+Enumerate every organization recorded.,organizations,organizations,0.9734299182891846
+Give me the names of all organizations.,organizations,organizations,0.9732545018196106
+Show all registered organizations.,organizations,organizations,0.975252628326416
+List every organization in the database.,organizations,organizations,0.9765149354934692
+Display the organization directory.,organizations,organizations,0.9666028618812561
+Fetch the list of organizations.,organizations,organizations,0.975177526473999
+What organizations do we have?,organizations,organizations,0.9776352643966675
+Get details of all organizations.,organizations,organizations,0.9717859625816345
+Show the organization roster.,organizations,organizations,0.9410526156425476
+List organizations registered in the system.,organizations,organizations,0.9753779172897339
+Provide information about each organization.,organizations,organizations,0.9734476208686829
+Display all company and organization names.,organizations,organizations,0.9726869463920593
+Retrieve every organization name.,organizations,organizations,0.9673646688461304
+Show me the list of organizations available.,organizations,organizations,0.9738431572914124
+List all research papers published.,papers,authors,0.7461091876029968
+Show me all research articles.,papers,authors,0.5385700464248657
+Display the complete list of published papers.,papers,authors,0.8520352244377136
+Give me a list of academic papers.,papers,authors,0.815690279006958
+What research papers are available?,papers,authors,0.44442909955978394
+Retrieve all the papers in the database.,papers,authors,0.7067983746528625
+Provide the titles of all available papers.,papers,authors,0.7864755988121033
+I need a list of published research papers.,papers,authors,0.8603606820106506
+Enumerate all scholarly papers.,papers,authors,0.79294753074646
+Show all the paper titles.,papers,authors,0.6149457693099976
+Display every research paper.,papers,authors,0.6638491153717041
+List all the academic publications.,papers,authors,0.9011518359184265
+Fetch all the papers recorded.,papers,authors,0.4641340374946594
+Which papers are available for review?,papers,authors,0.6085808277130127
+Show me papers on artificial intelligence in digital governance.,papers,papers,0.31294745206832886
+Give me the latest research papers.,papers,papers_by_author,0.5311941504478455
+Retrieve a list of recent papers.,papers,authors,0.6781871318817139
+Display abstracts for all papers.,papers,authors,0.7983331084251404
+Provide the full list of research papers.,papers,authors,0.8379420042037964
+List the papers available in the repository.,papers,authors,0.6427284479141235
+Show me the scholarly articles.,papers,authors,0.7873896360397339
+List papers written by Dr. Smith.,papers_by_author,papers_by_author,0.9395784139633179
+Show me papers written by Professor Johnson.,papers_by_author,papers_by_author,0.9259551167488098
+Display the research papers authored by Dr. Lee.,papers_by_author,papers_by_author,0.9045728445053101
+Give me the publications of Dr. Brown.,papers_by_author,papers_by_author,0.8667059540748596
+Which papers were published by Dr. Davis?,papers_by_author,papers_by_author,0.6970442533493042
+Retrieve the papers by Dr. Wilson.,papers_by_author,papers_by_author,0.931731104850769
+Provide the list of papers for Dr. Taylor.,papers_by_author,papers_by_author,0.7944344878196716
+I need publications by Professor Anderson.,papers_by_author,papers_by_author,0.8981981873512268
+Show me papers written by Dr. Thomas.,papers_by_author,papers_by_author,0.9419693350791931
+Display research articles by Professor Jackson.,papers_by_author,papers_by_author,0.9585952758789062
+List the academic papers of Dr. White.,papers_by_author,papers_by_author,0.8839823603630066
+Give me a list of papers by Dr. Harris.,papers_by_author,papers_by_author,0.8321555256843567
+Retrieve the publications of Dr. Martin.,papers_by_author,papers_by_author,0.8823047876358032
+Which research papers are by Dr. Thompson?,papers_by_author,papers_by_author,0.9128450751304626
+Show me the papers from Dr. Garcia.,papers_by_author,papers_by_author,0.7637220621109009
+Display the list of papers by Dr. Martinez.,papers_by_author,papers_by_author,0.8837467432022095
+Get the publications by Dr. Robinson.,papers_by_author,papers_by_author,0.9503015279769897
+List the research work of Dr. Clark.,papers_by_author,papers_by_author,0.8954695463180542
+Provide papers written by Dr. Rodriguez.,papers_by_author,papers_by_author,0.9232559204101562
+Fetch the academic publications of Professor Lewis.,papers_by_author,papers_by_author,0.8125850558280945
+List papers presented at the ICML conference.,papers_by_conference,papers_by_conference,0.8969433307647705
+Show me the research papers from NeurIPS.,papers_by_conference,papers_by_conference,0.9388676881790161
+Display the papers from the ACL conference.,papers_by_conference,papers_by_conference,0.9625719785690308
+Give me papers from the CVPR conference.,papers_by_conference,papers_by_conference,0.9527825117111206
+Which papers were featured at the SIGGRAPH conference?,papers_by_conference,authors_by_conference,0.5577313899993896
+Retrieve papers presented at the ECCV conference.,papers_by_conference,papers_by_conference,0.9656040668487549
+Provide the list of papers for the AAAI conference.,papers_by_conference,papers_by_conference,0.8762986660003662
+Show papers from the EMNLP conference.,papers_by_conference,papers_by_conference,0.9487797617912292
+Display research papers presented at the KDD conference.,papers_by_conference,papers_by_conference,0.938985288143158
+List the papers from the NAACL conference.,papers_by_conference,papers_by_conference,0.9656025171279907
+Give me conference papers from ICLR.,papers_by_conference,papers_by_conference,0.9533243775367737
+Which papers were discussed at the SIGMOD conference?,papers_by_conference,papers_by_conference,0.903907060623169
+Show me the academic papers from the WWW conference.,papers_by_conference,papers_by_conference,0.8348039984703064
+Retrieve papers presented at the ICASSP conference.,papers_by_conference,papers_by_conference,0.9690738916397095
+Display the conference papers for SIGIR.,papers_by_conference,papers_by_conference,0.9537700414657593
+List research papers from the ICDM conference.,papers_by_conference,papers_by_conference,0.9460798501968384
+Fetch papers from the ECML PKDD conference.,papers_by_conference,papers_by_conference,0.961857259273529
+Give me papers featured at the COLT conference.,papers_by_conference,papers_by_conference,0.8118484616279602
+Show the list of papers from a recent international conference.,papers_by_conference,papers_by_conference,0.5782762169837952
+Display papers from a major academic conference.,papers_by_conference,papers_by_conference,0.37229952216148376
+List the research articles presented at conferences.,papers_by_conference,authors,0.5010778903961182
+List papers published by MIT.,papers_by_organization,papers_by_author,0.7075868844985962
+Show me papers from Stanford University.,papers_by_organization,authors_by_organization,0.524721086025238
+Display research papers by Google.,papers_by_organization,papers_by_author,0.82990962266922
+Give me publications from IBM.,papers_by_organization,papers_by_author,0.48806872963905334
+Which papers are associated with Harvard University?,papers_by_organization,authors,0.3475228548049927
+Retrieve papers from Microsoft.,papers_by_organization,authors_by_organization,0.496905654668808
+Provide the list of papers from Amazon.,papers_by_organization,authors,0.5600655674934387
+Show papers from the organization Facebook.,papers_by_organization,organizations,0.46554526686668396
+Display academic papers from Tesla.,papers_by_organization,papers_by_author,0.8260610699653625
+List the research publications from Caltech.,papers_by_organization,authors_by_organization,0.6308234930038452
+Give me papers authored by researchers at Carnegie Mellon University.,papers_by_organization,papers_by_author,0.5111488699913025
+Which papers are from UC Berkeley?,papers_by_organization,authors,0.30750349164009094
+Show me papers published by Oxford University.,papers_by_organization,papers_by_author,0.6883787512779236
+Retrieve the publications from Princeton University.,papers_by_organization,authors_by_organization,0.4123722016811371
+Display papers from ETH Zurich.,papers_by_organization,papers_by_author,0.629827082157135
+List research papers from Intel.,papers_by_organization,papers_by_author,0.7512403130531311
+Fetch papers by researchers at NVIDIA.,papers_by_organization,papers_by_author,0.4867919385433197
+Give me papers from Apple.,papers_by_organization,authors_by_organization,0.5502054691314697
+Show me academic papers from IBM Research.,papers_by_organization,papers_by_author,0.7054750919342041
+Display papers from Google AI.,papers_by_organization,papers_by_author,0.3242892622947693

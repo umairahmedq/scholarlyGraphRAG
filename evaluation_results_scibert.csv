@@ -1,0 +1,101 @@
+query,label,predicted_label,confidence
+Who wrote the latest research publications?,authors,authors,0.9943007230758667
+Identify all scholars credited as authors.,authors,authors,0.9993889331817627
+List the researchers behind the published studies.,authors,authors,0.9989045858383179
+Show me the author roster for recent articles.,authors,authors,0.9991092085838318
+Which individuals are recognized as authors in the system?,authors,authors,0.9992635846138
+Retrieve the list of contributors from the research database.,authors,authors,0.9990767240524292
+Provide names of academics who are listed as authors.,authors,authors,0.9993090629577637
+Find the leading experts serving as authors.,authors,authors,0.9992490410804749
+Display the directory of researchers with author roles.,authors,authors,0.9993062019348145
+Who are the primary authors in our latest publications?,authors,authors,0.999138355255127
+Show me the list of distinguished academic authors.,authors,authors,0.9994035959243774
+Identify authors that work or have worked in oxford university.,authors,authors,0.9992101192474365
+Which authors have contributed to multiple studies?,authors,authors,0.9991732239723206
+Provide a complete list of research contributors.,authors,authors,0.9993056058883667
+Give me authors which have published the most in the field of artificial intelligence.,authors,authors,0.9992451667785645
+Display the profiles of all individuals marked as authors.,authors,authors,0.9993452429771423
+Who are the top publishing authors in our system?,authors,authors,0.9992893934249878
+Show me a roster of researchers who authored articles.,authors,authors,0.9991047978401184
+Identify the experts listed as authors in recent work.,authors,authors,0.9993528723716736
+List all individuals serving as authors in the database.,authors,authors,0.9993378520011902
+Display the academic names associated with authorship.,authors,authors,0.9993058443069458
+Who are the notable contributors recognized as authors?,authors,authors,0.9992837309837341
+Retrieve the roster of scientists credited as authors.,authors,authors,0.9993610978126526
+authors that have published in iswc.,authors,authors,0.9973500967025757
+Show me the complete list of individuals credited as authors.,authors,authors,0.9994217157363892
+What upcoming academic events are scheduled?,conferences,conferences,0.9918151497840881
+List the next international symposiums.,conferences,conferences,0.999427855014801
+Show me the schedule for upcoming research summits.,conferences,conferences,0.9994012117385864
+Which scholarly meetings are planned for this year?,conferences,conferences,0.9960590600967407
+Retrieve details of future academic gatherings.,conferences,conferences,0.9993797540664673
+Display the calendar for the next conferences.,conferences,conferences,0.9994764924049377
+What are the dates for upcoming scientific meetings?,conferences,conferences,0.9973018169403076
+give me all the conferences with the tag of iswc.,conferences,conferences,0.9994391798973083
+Show me the upcoming research conferences.,conferences,conferences,0.9995206594467163
+Which industry events are on the horizon?,conferences,conferences,0.997821569442749
+Display a list of upcoming academic seminars.,conferences,conferences,0.9992855191230774
+What are the next planned scientific conferences?,conferences,conferences,0.998202919960022
+List the upcoming international research events.,conferences,conferences,0.9994064569473267
+Show me a calendar of upcoming academic events.,conferences,conferences,0.9985425472259521
+Retrieve the schedule for future research conferences.,conferences,conferences,0.9995083808898926
+Which conferences are set for the next quarter?,conferences,conferences,0.9982333183288574
+Display the upcoming academic events roster.,conferences,conferences,0.9992844462394714
+What scientific conferences are on the agenda?,conferences,conferences,0.9984269142150879
+List future gatherings for academic professionals.,conferences,conferences,0.9993127584457397
+Show me upcoming conferences focusing on innovation.,conferences,conferences,0.9995336532592773
+Identify the next round of scholarly events.,conferences,conferences,0.9991744160652161
+Display the planned schedule for research symposiums.,conferences,conferences,0.999439537525177
+What are the upcoming events in the science domain?,conferences,conferences,0.9982861876487732
+List the future conferences for technology and research.,conferences,conferences,0.9995478987693787
+Show me the timetable for upcoming academic gatherings.,conferences,conferences,0.9991136193275452
+What research institutions are part of our network?,organizations,organizations,0.9929485321044922
+List all organizations collaborating on research projects.,organizations,organizations,0.999427855014801
+Show me the directory of partner institutions.,organizations,organizations,0.9986360669136047
+Which organizations are involved in innovative research?,organizations,organizations,0.9983305335044861
+Retrieve a list of academic institutions from the database.,organizations,organizations,0.9984747767448425
+Display the names of organizations active in research.,organizations,organizations,0.9994489550590515
+What companies and institutes are part of our research network?,organizations,organizations,0.9977328777313232
+List the organizations supporting recent studies.,organizations,organizations,0.9992708563804626
+Show me the list of research institutions and organizations.,organizations,organizations,0.999271810054779
+Give me organizations or institutes that publish on artificial intelligence?,organizations,organizations,0.995391845703125
+Display the directory of organizations in our system.,organizations,organizations,0.9994199275970459
+What organizations are contributing to scientific advancements?,organizations,organizations,0.997658371925354
+List the partner organizations in our research database.,organizations,organizations,0.9993081092834473
+Show me all institutes and organizations involved in research.,organizations,organizations,0.9991280436515808
+Identify the organizations with active research programs.,organizations,organizations,0.999398946762085
+Retrieve the list of companies and institutions in our database.,organizations,organizations,0.9992902278900146
+Display the names of organizations affiliated with our projects.,organizations,organizations,0.9993733763694763
+I want a list of the research bodies working on bionomes,organizations,organizations,0.99308842420578
+List the institutions that collaborate on academic research.,organizations,organizations,0.9992148876190186
+Show me the roster of organizations involved in innovation.,organizations,organizations,0.9994789958000183
+Identify all organizations registered on the research platform.,organizations,organizations,0.9993932247161865
+Display a list of organizations driving scientific research.,organizations,organizations,0.9994789958000183
+What organizations have partnered with leading universities?,organizations,organizations,0.9969929456710815
+List the organizations that support interdisciplinary research.,organizations,organizations,0.9994279742240906
+Show me the complete directory of research organizations.,organizations,organizations,0.9992840886116028
+What are the latest research publications available?,papers,papers,0.959266185760498
+List the most recent scholarly articles.,papers,papers,0.9993267059326172
+Show me the new research papers added to the database.,papers,papers,0.9992710947990417
+Which academic papers were published this month?,papers,papers,0.9564637541770935
+Retrieve a list of current research publications.,papers,papers,0.9989449381828308
+Display the latest articles in the repository.,papers,papers,0.9987069368362427
+What research papers are trending right now?,papers,papers,0.9933846592903137
+List the newly published academic papers.,papers,papers,0.998792290687561
+Show me the recent studies available as papers.,papers,papers,0.9991402626037598
+give me papers on using artificial intelligence in digital governance?,papers,papers,0.9970288872718811
+Display a collection of recent scholarly papers.,papers,papers,0.9994444251060486
+What are the current research articles on the platform?,papers,papers,0.994066596031189
+List the academic publications added this week.,papers,papers,0.9725249409675598
+Show me the recent papers in the research archive.,papers,papers,0.9994031190872192
+Which scholarly articles are newly available?,papers,papers,0.9864219427108765
+Retrieve the list of the latest research papers.,papers,papers,0.9994194507598877
+Display new academic papers in our collection.,papers,papers,0.9994062185287476
+What are the top recent publications in research?,papers,authors,0.6385595798492432
+List the newly added research articles.,papers,papers,0.9989067316055298
+are there available publications related to bionomes.,papers,papers,0.9988471269607544
+Which research papers have been recently published?,papers,papers,0.9164429306983948
+Display the list of current scholarly publications.,papers,papers,0.9926651120185852
+What are the most recent academic articles available?,papers,papers,0.9702003002166748
+List the fresh research papers in the database.,papers,papers,0.9994069337844849
+Show me the latest academic research articles.,papers,papers,0.9993276596069336

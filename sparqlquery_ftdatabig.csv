@@ -1,0 +1,1801 @@
+query,label
+"Show me the authors from ESWC 2024 conference",authors_by_conference
+"List all authors who participated in ESWC 2024",authors_by_conference
+"Retrieve the list of authors for ESWC 2024",authors_by_conference
+"Find authors by conference: ESWC 2024",authors_by_conference
+"Who are the authors that presented at ESWC 2024?",authors_by_conference
+"Display the conference authors for ESWC 2024",authors_by_conference
+"Get a list of authors from the ESWC 2024 event",authors_by_conference
+"Provide names of authors for ESWC 2024 conference",authors_by_conference
+"Which authors attended ESWC 2024?",authors_by_conference
+"Fetch authors associated with ESWC 2024 conference",authors_by_conference
+"List the names of authors from ESWC 2024",authors_by_conference
+"Show conference participants' authors for ESWC 2024",authors_by_conference
+"What are the authors from ESWC 2024?",authors_by_conference
+"Detail the authors presenting at ESWC 2024 conference",authors_by_conference
+"Who were the authors at the ESWC 2024 event?",authors_by_conference
+"Retrieve conference participants: authors for ESWC 2024",authors_by_conference
+"List the authors involved in ESWC 2024",authors_by_conference
+"Get conference authors list for ESWC 2024",authors_by_conference
+"Find the author details for ESWC 2024 conference",authors_by_conference
+"Display authors from the ESWC 2024 session",authors_by_conference
+"Show me the authors from NeurIPS 2021 conference",authors_by_conference
+"List all authors who participated in NeurIPS 2021",authors_by_conference
+"Retrieve the list of authors for NeurIPS 2021",authors_by_conference
+"Find authors by conference: NeurIPS 2021",authors_by_conference
+"Who are the authors that presented at NeurIPS 2021?",authors_by_conference
+"Display the conference authors for NeurIPS 2021",authors_by_conference
+"Get a list of authors from the NeurIPS 2021 event",authors_by_conference
+"Provide names of authors for NeurIPS 2021 conference",authors_by_conference
+"Which authors attended NeurIPS 2021?",authors_by_conference
+"Fetch authors associated with NeurIPS 2021 conference",authors_by_conference
+"List the names of authors from NeurIPS 2021",authors_by_conference
+"Show conference participants' authors for NeurIPS 2021",authors_by_conference
+"What are the authors from NeurIPS 2021?",authors_by_conference
+"Detail the authors presenting at NeurIPS 2021 conference",authors_by_conference
+"Who were the authors at the NeurIPS 2021 event?",authors_by_conference
+"Retrieve conference participants: authors for NeurIPS 2021",authors_by_conference
+"List the authors involved in NeurIPS 2021",authors_by_conference
+"Get conference authors list for NeurIPS 2021",authors_by_conference
+"Find the author details for NeurIPS 2021 conference",authors_by_conference
+"Display authors from the NeurIPS 2021 session",authors_by_conference
+"Show me the authors from ICML 2022 conference",authors_by_conference
+"List all authors who participated in ICML 2022",authors_by_conference
+"Retrieve the list of authors for ICML 2022",authors_by_conference
+"Find authors by conference: ICML 2022",authors_by_conference
+"Who are the authors that presented at ICML 2022?",authors_by_conference
+"Display the conference authors for ICML 2022",authors_by_conference
+"Get a list of authors from the ICML 2022 event",authors_by_conference
+"Provide names of authors for ICML 2022 conference",authors_by_conference
+"Which authors attended ICML 2022?",authors_by_conference
+"Fetch authors associated with ICML 2022 conference",authors_by_conference
+"List the names of authors from ICML 2022",authors_by_conference
+"Show conference participants' authors for ICML 2022",authors_by_conference
+"What are the authors from ICML 2022?",authors_by_conference
+"Detail the authors presenting at ICML 2022 conference",authors_by_conference
+"Who were the authors at the ICML 2022 event?",authors_by_conference
+"Retrieve conference participants: authors for ICML 2022",authors_by_conference
+"List the authors involved in ICML 2022",authors_by_conference
+"Get conference authors list for ICML 2022",authors_by_conference
+"Find the author details for ICML 2022 conference",authors_by_conference
+"Display authors from the ICML 2022 session",authors_by_conference
+"Show me the authors from ICLR 2023 conference",authors_by_conference
+"List all authors who participated in ICLR 2023",authors_by_conference
+"Retrieve the list of authors for ICLR 2023",authors_by_conference
+"Find authors by conference: ICLR 2023",authors_by_conference
+"Who are the authors that presented at ICLR 2023?",authors_by_conference
+"Display the conference authors for ICLR 2023",authors_by_conference
+"Get a list of authors from the ICLR 2023 event",authors_by_conference
+"Provide names of authors for ICLR 2023 conference",authors_by_conference
+"Which authors attended ICLR 2023?",authors_by_conference
+"Fetch authors associated with ICLR 2023 conference",authors_by_conference
+"List the names of authors from ICLR 2023",authors_by_conference
+"Show conference participants' authors for ICLR 2023",authors_by_conference
+"What are the authors from ICLR 2023?",authors_by_conference
+"Detail the authors presenting at ICLR 2023 conference",authors_by_conference
+"Who were the authors at the ICLR 2023 event?",authors_by_conference
+"Retrieve conference participants: authors for ICLR 2023",authors_by_conference
+"List the authors involved in ICLR 2023",authors_by_conference
+"Get conference authors list for ICLR 2023",authors_by_conference
+"Find the author details for ICLR 2023 conference",authors_by_conference
+"Display authors from the ICLR 2023 session",authors_by_conference
+"Show me the authors from CVPR 2020 conference",authors_by_conference
+"List all authors who participated in CVPR 2020",authors_by_conference
+"Retrieve the list of authors for CVPR 2020",authors_by_conference
+"Find authors by conference: CVPR 2020",authors_by_conference
+"Who are the authors that presented at CVPR 2020?",authors_by_conference
+"Display the conference authors for CVPR 2020",authors_by_conference
+"Get a list of authors from the CVPR 2020 event",authors_by_conference
+"Provide names of authors for CVPR 2020 conference",authors_by_conference
+"Which authors attended CVPR 2020?",authors_by_conference
+"Fetch authors associated with CVPR 2020 conference",authors_by_conference
+"List the names of authors from CVPR 2020",authors_by_conference
+"Show conference participants' authors for CVPR 2020",authors_by_conference
+"What are the authors from CVPR 2020?",authors_by_conference
+"Detail the authors presenting at CVPR 2020 conference",authors_by_conference
+"Who were the authors at the CVPR 2020 event?",authors_by_conference
+"Retrieve conference participants: authors for CVPR 2020",authors_by_conference
+"List the authors involved in CVPR 2020",authors_by_conference
+"Get conference authors list for CVPR 2020",authors_by_conference
+"Find the author details for CVPR 2020 conference",authors_by_conference
+"Display authors from the CVPR 2020 session",authors_by_conference
+"Show me the authors from ACL 2019 conference",authors_by_conference
+"List all authors who participated in ACL 2019",authors_by_conference
+"Retrieve the list of authors for ACL 2019",authors_by_conference
+"Find authors by conference: ACL 2019",authors_by_conference
+"Who are the authors that presented at ACL 2019?",authors_by_conference
+"Display the conference authors for ACL 2019",authors_by_conference
+"Get a list of authors from the ACL 2019 event",authors_by_conference
+"Provide names of authors for ACL 2019 conference",authors_by_conference
+"Which authors attended ACL 2019?",authors_by_conference
+"Fetch authors associated with ACL 2019 conference",authors_by_conference
+"List the names of authors from ACL 2019",authors_by_conference
+"Show conference participants' authors for ACL 2019",authors_by_conference
+"What are the authors from ACL 2019?",authors_by_conference
+"Detail the authors presenting at ACL 2019 conference",authors_by_conference
+"Who were the authors at the ACL 2019 event?",authors_by_conference
+"Retrieve conference participants: authors for ACL 2019",authors_by_conference
+"List the authors involved in ACL 2019",authors_by_conference
+"Get conference authors list for ACL 2019",authors_by_conference
+"Find the author details for ACL 2019 conference",authors_by_conference
+"Display authors from the ACL 2019 session",authors_by_conference
+"Show me the authors from EMNLP 2018 conference",authors_by_conference
+"List all authors who participated in EMNLP 2018",authors_by_conference
+"Retrieve the list of authors for EMNLP 2018",authors_by_conference
+"Find authors by conference: EMNLP 2018",authors_by_conference
+"Who are the authors that presented at EMNLP 2018?",authors_by_conference
+"Display the conference authors for EMNLP 2018",authors_by_conference
+"Get a list of authors from the EMNLP 2018 event",authors_by_conference
+"Provide names of authors for EMNLP 2018 conference",authors_by_conference
+"Which authors attended EMNLP 2018?",authors_by_conference
+"Fetch authors associated with EMNLP 2018 conference",authors_by_conference
+"List the names of authors from EMNLP 2018",authors_by_conference
+"Show conference participants' authors for EMNLP 2018",authors_by_conference
+"What are the authors from EMNLP 2018?",authors_by_conference
+"Detail the authors presenting at EMNLP 2018 conference",authors_by_conference
+"Who were the authors at the EMNLP 2018 event?",authors_by_conference
+"Retrieve conference participants: authors for EMNLP 2018",authors_by_conference
+"List the authors involved in EMNLP 2018",authors_by_conference
+"Get conference authors list for EMNLP 2018",authors_by_conference
+"Find the author details for EMNLP 2018 conference",authors_by_conference
+"Display authors from the EMNLP 2018 session",authors_by_conference
+"Show me the authors from AAAI 2022 conference",authors_by_conference
+"List all authors who participated in AAAI 2022",authors_by_conference
+"Retrieve the list of authors for AAAI 2022",authors_by_conference
+"Find authors by conference: AAAI 2022",authors_by_conference
+"Who are the authors that presented at AAAI 2022?",authors_by_conference
+"Display the conference authors for AAAI 2022",authors_by_conference
+"Get a list of authors from the AAAI 2022 event",authors_by_conference
+"Provide names of authors for AAAI 2022 conference",authors_by_conference
+"Which authors attended AAAI 2022?",authors_by_conference
+"Fetch authors associated with AAAI 2022 conference",authors_by_conference
+"List the names of authors from AAAI 2022",authors_by_conference
+"Show conference participants' authors for AAAI 2022",authors_by_conference
+"What are the authors from AAAI 2022?",authors_by_conference
+"Detail the authors presenting at AAAI 2022 conference",authors_by_conference
+"Who were the authors at the AAAI 2022 event?",authors_by_conference
+"Retrieve conference participants: authors for AAAI 2022",authors_by_conference
+"List the authors involved in AAAI 2022",authors_by_conference
+"Get conference authors list for AAAI 2022",authors_by_conference
+"Find the author details for AAAI 2022 conference",authors_by_conference
+"Display authors from the AAAI 2022 session",authors_by_conference
+"Show me the authors from KDD 2021 conference",authors_by_conference
+"List all authors who participated in KDD 2021",authors_by_conference
+"Retrieve the list of authors for KDD 2021",authors_by_conference
+"Find authors by conference: KDD 2021",authors_by_conference
+"Who are the authors that presented at KDD 2021?",authors_by_conference
+"Display the conference authors for KDD 2021",authors_by_conference
+"Get a list of authors from the KDD 2021 event",authors_by_conference
+"Provide names of authors for KDD 2021 conference",authors_by_conference
+"Which authors attended KDD 2021?",authors_by_conference
+"Fetch authors associated with KDD 2021 conference",authors_by_conference
+"List the names of authors from KDD 2021",authors_by_conference
+"Show conference participants' authors for KDD 2021",authors_by_conference
+"What are the authors from KDD 2021?",authors_by_conference
+"Detail the authors presenting at KDD 2021 conference",authors_by_conference
+"Who were the authors at the KDD 2021 event?",authors_by_conference
+"Retrieve conference participants: authors for KDD 2021",authors_by_conference
+"List the authors involved in KDD 2021",authors_by_conference
+"Get conference authors list for KDD 2021",authors_by_conference
+"Find the author details for KDD 2021 conference",authors_by_conference
+"Display authors from the KDD 2021 session",authors_by_conference
+"Show me the authors from SIGGRAPH 2022 conference",authors_by_conference
+"List all authors who participated in SIGGRAPH 2022",authors_by_conference
+"Retrieve the list of authors for SIGGRAPH 2022",authors_by_conference
+"Find authors by conference: SIGGRAPH 2022",authors_by_conference
+"Who are the authors that presented at SIGGRAPH 2022?",authors_by_conference
+"Display the conference authors for SIGGRAPH 2022",authors_by_conference
+"Get a list of authors from the SIGGRAPH 2022 event",authors_by_conference
+"Provide names of authors for SIGGRAPH 2022 conference",authors_by_conference
+"Which authors attended SIGGRAPH 2022?",authors_by_conference
+"Fetch authors associated with SIGGRAPH 2022 conference",authors_by_conference
+"List the names of authors from SIGGRAPH 2022",authors_by_conference
+"Show conference participants' authors for SIGGRAPH 2022",authors_by_conference
+"What are the authors from SIGGRAPH 2022?",authors_by_conference
+"Detail the authors presenting at SIGGRAPH 2022 conference",authors_by_conference
+"Who were the authors at the SIGGRAPH 2022 event?",authors_by_conference
+"Retrieve conference participants: authors for SIGGRAPH 2022",authors_by_conference
+"List the authors involved in SIGGRAPH 2022",authors_by_conference
+"Get conference authors list for SIGGRAPH 2022",authors_by_conference
+"Find the author details for SIGGRAPH 2022 conference",authors_by_conference
+"Display authors from the SIGGRAPH 2022 session",authors_by_conference
+"Show me the authors from Harvard University",authors_by_organization
+"List all authors affiliated with Harvard University",authors_by_organization
+"Retrieve the list of authors for Harvard University",authors_by_organization
+"Find authors by organization: Harvard University",authors_by_organization
+"Who are the authors that have an affiliation with Harvard University?",authors_by_organization
+"Display the organization authors for Harvard University",authors_by_organization
+"Get a list of authors from Harvard University",authors_by_organization
+"Provide names of authors for Harvard University",authors_by_organization
+"Which authors are associated with Harvard University?",authors_by_organization
+"Fetch authors connected to Harvard University",authors_by_organization
+"List the names of authors affiliated with Harvard University",authors_by_organization
+"Show organization participants' authors for Harvard University",authors_by_organization
+"What are the authors from Harvard University?",authors_by_organization
+"Detail the authors affiliated with Harvard University",authors_by_organization
+"Who were the authors linked to Harvard University?",authors_by_organization
+"Retrieve organization participants: authors for Harvard University",authors_by_organization
+"List the authors involved with Harvard University",authors_by_organization
+"Get organization authors list for Harvard University",authors_by_organization
+"Find the author details for Harvard University",authors_by_organization
+"Display authors from the Harvard University organization",authors_by_organization
+"Show me the authors from MIT",authors_by_organization
+"List all authors affiliated with MIT",authors_by_organization
+"Retrieve the list of authors for MIT",authors_by_organization
+"Find authors by organization: MIT",authors_by_organization
+"Who are the authors that have an affiliation with MIT?",authors_by_organization
+"Display the organization authors for MIT",authors_by_organization
+"Get a list of authors from MIT",authors_by_organization
+"Provide names of authors for MIT",authors_by_organization
+"Which authors are associated with MIT?",authors_by_organization
+"Fetch authors connected to MIT",authors_by_organization
+"List the names of authors affiliated with MIT",authors_by_organization
+"Show organization participants' authors for MIT",authors_by_organization
+"What are the authors from MIT?",authors_by_organization
+"Detail the authors affiliated with MIT",authors_by_organization
+"Who were the authors linked to MIT?",authors_by_organization
+"Retrieve organization participants: authors for MIT",authors_by_organization
+"List the authors involved with MIT",authors_by_organization
+"Get organization authors list for MIT",authors_by_organization
+"Find the author details for MIT",authors_by_organization
+"Display authors from the MIT organization",authors_by_organization
+"Show me the authors from Stanford University",authors_by_organization
+"List all authors affiliated with Stanford University",authors_by_organization
+"Retrieve the list of authors for Stanford University",authors_by_organization
+"Find authors by organization: Stanford University",authors_by_organization
+"Who are the authors that have an affiliation with Stanford University?",authors_by_organization
+"Display the organization authors for Stanford University",authors_by_organization
+"Get a list of authors from Stanford University",authors_by_organization
+"Provide names of authors for Stanford University",authors_by_organization
+"Which authors are associated with Stanford University?",authors_by_organization
+"Fetch authors connected to Stanford University",authors_by_organization
+"List the names of authors affiliated with Stanford University",authors_by_organization
+"Show organization participants' authors for Stanford University",authors_by_organization
+"What are the authors from Stanford University?",authors_by_organization
+"Detail the authors affiliated with Stanford University",authors_by_organization
+"Who were the authors linked to Stanford University?",authors_by_organization
+"Retrieve organization participants: authors for Stanford University",authors_by_organization
+"List the authors involved with Stanford University",authors_by_organization
+"Get organization authors list for Stanford University",authors_by_organization
+"Find the author details for Stanford University",authors_by_organization
+"Display authors from the Stanford University organization",authors_by_organization
+"Show me the authors from University of Oxford",authors_by_organization
+"List all authors affiliated with University of Oxford",authors_by_organization
+"Retrieve the list of authors for University of Oxford",authors_by_organization
+"Find authors by organization: University of Oxford",authors_by_organization
+"Who are the authors that have an affiliation with University of Oxford?",authors_by_organization
+"Display the organization authors for University of Oxford",authors_by_organization
+"Get a list of authors from University of Oxford",authors_by_organization
+"Provide names of authors for University of Oxford",authors_by_organization
+"Which authors are associated with University of Oxford?",authors_by_organization
+"Fetch authors connected to University of Oxford",authors_by_organization
+"List the names of authors affiliated with University of Oxford",authors_by_organization
+"Show organization participants' authors for University of Oxford",authors_by_organization
+"What are the authors from University of Oxford?",authors_by_organization
+"Detail the authors affiliated with University of Oxford",authors_by_organization
+"Who were the authors linked to University of Oxford?",authors_by_organization
+"Retrieve organization participants: authors for University of Oxford",authors_by_organization
+"List the authors involved with University of Oxford",authors_by_organization
+"Get organization authors list for University of Oxford",authors_by_organization
+"Find the author details for University of Oxford",authors_by_organization
+"Display authors from the University of Oxford organization",authors_by_organization
+"Show me the authors from University of Cambridge",authors_by_organization
+"List all authors affiliated with University of Cambridge",authors_by_organization
+"Retrieve the list of authors for University of Cambridge",authors_by_organization
+"Find authors by organization: University of Cambridge",authors_by_organization
+"Who are the authors that have an affiliation with University of Cambridge?",authors_by_organization
+"Display the organization authors for University of Cambridge",authors_by_organization
+"Get a list of authors from University of Cambridge",authors_by_organization
+"Provide names of authors for University of Cambridge",authors_by_organization
+"Which authors are associated with University of Cambridge?",authors_by_organization
+"Fetch authors connected to University of Cambridge",authors_by_organization
+"List the names of authors affiliated with University of Cambridge",authors_by_organization
+"Show organization participants' authors for University of Cambridge",authors_by_organization
+"What are the authors from University of Cambridge?",authors_by_organization
+"Detail the authors affiliated with University of Cambridge",authors_by_organization
+"Who were the authors linked to University of Cambridge?",authors_by_organization
+"Retrieve organization participants: authors for University of Cambridge",authors_by_organization
+"List the authors involved with University of Cambridge",authors_by_organization
+"Get organization authors list for University of Cambridge",authors_by_organization
+"Find the author details for University of Cambridge",authors_by_organization
+"Display authors from the University of Cambridge organization",authors_by_organization
+"Show me the authors from University of California, Berkeley",authors_by_organization
+"List all authors affiliated with University of California, Berkeley",authors_by_organization
+"Retrieve the list of authors for University of California, Berkeley",authors_by_organization
+"Find authors by organization: University of California, Berkeley",authors_by_organization
+"Who are the authors that have an affiliation with University of California, Berkeley?",authors_by_organization
+"Display the organization authors for University of California, Berkeley",authors_by_organization
+"Get a list of authors from University of California, Berkeley",authors_by_organization
+"Provide names of authors for University of California, Berkeley",authors_by_organization
+"Which authors are associated with University of California, Berkeley?",authors_by_organization
+"Fetch authors connected to University of California, Berkeley",authors_by_organization
+"List the names of authors affiliated with University of California, Berkeley",authors_by_organization
+"Show organization participants' authors for University of California, Berkeley",authors_by_organization
+"What are the authors from University of California, Berkeley?",authors_by_organization
+"Detail the authors affiliated with University of California, Berkeley",authors_by_organization
+"Who were the authors linked to University of California, Berkeley?",authors_by_organization
+"Retrieve organization participants: authors for University of California, Berkeley",authors_by_organization
+"List the authors involved with University of California, Berkeley",authors_by_organization
+"Get organization authors list for University of California, Berkeley",authors_by_organization
+"Find the author details for University of California, Berkeley",authors_by_organization
+"Display authors from the University of California, Berkeley organization",authors_by_organization
+"Show me the authors from Princeton University",authors_by_organization
+"List all authors affiliated with Princeton University",authors_by_organization
+"Retrieve the list of authors for Princeton University",authors_by_organization
+"Find authors by organization: Princeton University",authors_by_organization
+"Who are the authors that have an affiliation with Princeton University?",authors_by_organization
+"Display the organization authors for Princeton University",authors_by_organization
+"Get a list of authors from Princeton University",authors_by_organization
+"Provide names of authors for Princeton University",authors_by_organization
+"Which authors are associated with Princeton University?",authors_by_organization
+"Fetch authors connected to Princeton University",authors_by_organization
+"List the names of authors affiliated with Princeton University",authors_by_organization
+"Show organization participants' authors for Princeton University",authors_by_organization
+"What are the authors from Princeton University?",authors_by_organization
+"Detail the authors affiliated with Princeton University",authors_by_organization
+"Who were the authors linked to Princeton University?",authors_by_organization
+"Retrieve organization participants: authors for Princeton University",authors_by_organization
+"List the authors involved with Princeton University",authors_by_organization
+"Get organization authors list for Princeton University",authors_by_organization
+"Find the author details for Princeton University",authors_by_organization
+"Display authors from the Princeton University organization",authors_by_organization
+"Show me the authors from Yale University",authors_by_organization
+"List all authors affiliated with Yale University",authors_by_organization
+"Retrieve the list of authors for Yale University",authors_by_organization
+"Find authors by organization: Yale University",authors_by_organization
+"Who are the authors that have an affiliation with Yale University?",authors_by_organization
+"Display the organization authors for Yale University",authors_by_organization
+"Get a list of authors from Yale University",authors_by_organization
+"Provide names of authors for Yale University",authors_by_organization
+"Which authors are associated with Yale University?",authors_by_organization
+"Fetch authors connected to Yale University",authors_by_organization
+"List the names of authors affiliated with Yale University",authors_by_organization
+"Show organization participants' authors for Yale University",authors_by_organization
+"What are the authors from Yale University?",authors_by_organization
+"Detail the authors affiliated with Yale University",authors_by_organization
+"Who were the authors linked to Yale University?",authors_by_organization
+"Retrieve organization participants: authors for Yale University",authors_by_organization
+"List the authors involved with Yale University",authors_by_organization
+"Get organization authors list for Yale University",authors_by_organization
+"Find the author details for Yale University",authors_by_organization
+"Display authors from the Yale University organization",authors_by_organization
+"Show me the authors from Columbia University",authors_by_organization
+"List all authors affiliated with Columbia University",authors_by_organization
+"Retrieve the list of authors for Columbia University",authors_by_organization
+"Find authors by organization: Columbia University",authors_by_organization
+"Who are the authors that have an affiliation with Columbia University?",authors_by_organization
+"Display the organization authors for Columbia University",authors_by_organization
+"Get a list of authors from Columbia University",authors_by_organization
+"Provide names of authors for Columbia University",authors_by_organization
+"Which authors are associated with Columbia University?",authors_by_organization
+"Fetch authors connected to Columbia University",authors_by_organization
+"List the names of authors affiliated with Columbia University",authors_by_organization
+"Show organization participants' authors for Columbia University",authors_by_organization
+"What are the authors from Columbia University?",authors_by_organization
+"Detail the authors affiliated with Columbia University",authors_by_organization
+"Who were the authors linked to Columbia University?",authors_by_organization
+"Retrieve organization participants: authors for Columbia University",authors_by_organization
+"List the authors involved with Columbia University",authors_by_organization
+"Get organization authors list for Columbia University",authors_by_organization
+"Find the author details for Columbia University",authors_by_organization
+"Display authors from the Columbia University organization",authors_by_organization
+"Show me the authors from Caltech",authors_by_organization
+"List all authors affiliated with Caltech",authors_by_organization
+"Retrieve the list of authors for Caltech",authors_by_organization
+"Find authors by organization: Caltech",authors_by_organization
+"Who are the authors that have an affiliation with Caltech?",authors_by_organization
+"Display the organization authors for Caltech",authors_by_organization
+"Get a list of authors from Caltech",authors_by_organization
+"Provide names of authors for Caltech",authors_by_organization
+"Which authors are associated with Caltech?",authors_by_organization
+"Fetch authors connected to Caltech",authors_by_organization
+"List the names of authors affiliated with Caltech",authors_by_organization
+"Show organization participants' authors for Caltech",authors_by_organization
+"What are the authors from Caltech?",authors_by_organization
+"Detail the authors affiliated with Caltech",authors_by_organization
+"Who were the authors linked to Caltech?",authors_by_organization
+"Retrieve organization participants: authors for Caltech",authors_by_organization
+"List the authors involved with Caltech",authors_by_organization
+"Get organization authors list for Caltech",authors_by_organization
+"Find the author details for Caltech",authors_by_organization
+"Display authors from the Caltech organization",authors_by_organization
+"Show me the details for ESWC 2024 conference",conferences
+"List all information about ESWC 2024 conference",conferences
+"Retrieve conference details for ESWC 2024",conferences
+"Find the ESWC 2024 conference details",conferences
+"What are the details of ESWC 2024 conference?",conferences
+"Display full conference information for ESWC 2024",conferences
+"Get complete details for ESWC 2024 conference",conferences
+"Show conference record for ESWC 2024",conferences
+"Retrieve the schedule and details for ESWC 2024",conferences
+"List ESWC 2024 conference metadata",conferences
+"Fetch detailed information for ESWC 2024 conference",conferences
+"Provide the conference details for ESWC 2024",conferences
+"What is the complete info for ESWC 2024 conference?",conferences
+"Show me ESWC 2024 conference information",conferences
+"Get details and metadata for ESWC 2024 conference",conferences
+"List all available details of ESWC 2024 conference",conferences
+"Display the schedule and venue for ESWC 2024 conference",conferences
+"Retrieve full conference data for ESWC 2024",conferences
+"Show all information regarding ESWC 2024",conferences
+"Find detailed records for ESWC 2024 conference",conferences
+"Show me the details for NeurIPS 2021 conference",conferences
+"List all information about NeurIPS 2021 conference",conferences
+"Retrieve conference details for NeurIPS 2021",conferences
+"Find the NeurIPS 2021 conference details",conferences
+"What are the details of NeurIPS 2021 conference?",conferences
+"Display full conference information for NeurIPS 2021",conferences
+"Get complete details for NeurIPS 2021 conference",conferences
+"Show conference record for NeurIPS 2021",conferences
+"Retrieve the schedule and details for NeurIPS 2021",conferences
+"List NeurIPS 2021 conference metadata",conferences
+"Fetch detailed information for NeurIPS 2021 conference",conferences
+"Provide the conference details for NeurIPS 2021",conferences
+"What is the complete info for NeurIPS 2021 conference?",conferences
+"Show me NeurIPS 2021 conference information",conferences
+"Get details and metadata for NeurIPS 2021 conference",conferences
+"List all available details of NeurIPS 2021 conference",conferences
+"Display the schedule and venue for NeurIPS 2021 conference",conferences
+"Retrieve full conference data for NeurIPS 2021",conferences
+"Show all information regarding NeurIPS 2021",conferences
+"Find detailed records for NeurIPS 2021 conference",conferences
+"Show me the details for ICML 2022 conference",conferences
+"List all information about ICML 2022 conference",conferences
+"Retrieve conference details for ICML 2022",conferences
+"Find the ICML 2022 conference details",conferences
+"What are the details of ICML 2022 conference?",conferences
+"Display full conference information for ICML 2022",conferences
+"Get complete details for ICML 2022 conference",conferences
+"Show conference record for ICML 2022",conferences
+"Retrieve the schedule and details for ICML 2022",conferences
+"List ICML 2022 conference metadata",conferences
+"Fetch detailed information for ICML 2022 conference",conferences
+"Provide the conference details for ICML 2022",conferences
+"What is the complete info for ICML 2022 conference?",conferences
+"Show me ICML 2022 conference information",conferences
+"Get details and metadata for ICML 2022 conference",conferences
+"List all available details of ICML 2022 conference",conferences
+"Display the schedule and venue for ICML 2022 conference",conferences
+"Retrieve full conference data for ICML 2022",conferences
+"Show all information regarding ICML 2022",conferences
+"Find detailed records for ICML 2022 conference",conferences
+"Show me the details for ICLR 2023 conference",conferences
+"List all information about ICLR 2023 conference",conferences
+"Retrieve conference details for ICLR 2023",conferences
+"Find the ICLR 2023 conference details",conferences
+"What are the details of ICLR 2023 conference?",conferences
+"Display full conference information for ICLR 2023",conferences
+"Get complete details for ICLR 2023 conference",conferences
+"Show conference record for ICLR 2023",conferences
+"Retrieve the schedule and details for ICLR 2023",conferences
+"List ICLR 2023 conference metadata",conferences
+"Fetch detailed information for ICLR 2023 conference",conferences
+"Provide the conference details for ICLR 2023",conferences
+"What is the complete info for ICLR 2023 conference?",conferences
+"Show me ICLR 2023 conference information",conferences
+"Get details and metadata for ICLR 2023 conference",conferences
+"List all available details of ICLR 2023 conference",conferences
+"Display the schedule and venue for ICLR 2023 conference",conferences
+"Retrieve full conference data for ICLR 2023",conferences
+"Show all information regarding ICLR 2023",conferences
+"Find detailed records for ICLR 2023 conference",conferences
+"Show me the details for CVPR 2020 conference",conferences
+"List all information about CVPR 2020 conference",conferences
+"Retrieve conference details for CVPR 2020",conferences
+"Find the CVPR 2020 conference details",conferences
+"What are the details of CVPR 2020 conference?",conferences
+"Display full conference information for CVPR 2020",conferences
+"Get complete details for CVPR 2020 conference",conferences
+"Show conference record for CVPR 2020",conferences
+"Retrieve the schedule and details for CVPR 2020",conferences
+"List CVPR 2020 conference metadata",conferences
+"Fetch detailed information for CVPR 2020 conference",conferences
+"Provide the conference details for CVPR 2020",conferences
+"What is the complete info for CVPR 2020 conference?",conferences
+"Show me CVPR 2020 conference information",conferences
+"Get details and metadata for CVPR 2020 conference",conferences
+"List all available details of CVPR 2020 conference",conferences
+"Display the schedule and venue for CVPR 2020 conference",conferences
+"Retrieve full conference data for CVPR 2020",conferences
+"Show all information regarding CVPR 2020",conferences
+"Find detailed records for CVPR 2020 conference",conferences
+"Show me the details for ACL 2019 conference",conferences
+"List all information about ACL 2019 conference",conferences
+"Retrieve conference details for ACL 2019",conferences
+"Find the ACL 2019 conference details",conferences
+"What are the details of ACL 2019 conference?",conferences
+"Display full conference information for ACL 2019",conferences
+"Get complete details for ACL 2019 conference",conferences
+"Show conference record for ACL 2019",conferences
+"Retrieve the schedule and details for ACL 2019",conferences
+"List ACL 2019 conference metadata",conferences
+"Fetch detailed information for ACL 2019 conference",conferences
+"Provide the conference details for ACL 2019",conferences
+"What is the complete info for ACL 2019 conference?",conferences
+"Show me ACL 2019 conference information",conferences
+"Get details and metadata for ACL 2019 conference",conferences
+"List all available details of ACL 2019 conference",conferences
+"Display the schedule and venue for ACL 2019 conference",conferences
+"Retrieve full conference data for ACL 2019",conferences
+"Show all information regarding ACL 2019",conferences
+"Find detailed records for ACL 2019 conference",conferences
+"Show me the details for EMNLP 2018 conference",conferences
+"List all information about EMNLP 2018 conference",conferences
+"Retrieve conference details for EMNLP 2018",conferences
+"Find the EMNLP 2018 conference details",conferences
+"What are the details of EMNLP 2018 conference?",conferences
+"Display full conference information for EMNLP 2018",conferences
+"Get complete details for EMNLP 2018 conference",conferences
+"Show conference record for EMNLP 2018",conferences
+"Retrieve the schedule and details for EMNLP 2018",conferences
+"List EMNLP 2018 conference metadata",conferences
+"Fetch detailed information for EMNLP 2018 conference",conferences
+"Provide the conference details for EMNLP 2018",conferences
+"What is the complete info for EMNLP 2018 conference?",conferences
+"Show me EMNLP 2018 conference information",conferences
+"Get details and metadata for EMNLP 2018 conference",conferences
+"List all available details of EMNLP 2018 conference",conferences
+"Display the schedule and venue for EMNLP 2018 conference",conferences
+"Retrieve full conference data for EMNLP 2018",conferences
+"Show all information regarding EMNLP 2018",conferences
+"Find detailed records for EMNLP 2018 conference",conferences
+"Show me the details for AAAI 2022 conference",conferences
+"List all information about AAAI 2022 conference",conferences
+"Retrieve conference details for AAAI 2022",conferences
+"Find the AAAI 2022 conference details",conferences
+"What are the details of AAAI 2022 conference?",conferences
+"Display full conference information for AAAI 2022",conferences
+"Get complete details for AAAI 2022 conference",conferences
+"Show conference record for AAAI 2022",conferences
+"Retrieve the schedule and details for AAAI 2022",conferences
+"List AAAI 2022 conference metadata",conferences
+"Fetch detailed information for AAAI 2022 conference",conferences
+"Provide the conference details for AAAI 2022",conferences
+"What is the complete info for AAAI 2022 conference?",conferences
+"Show me AAAI 2022 conference information",conferences
+"Get details and metadata for AAAI 2022 conference",conferences
+"List all available details of AAAI 2022 conference",conferences
+"Display the schedule and venue for AAAI 2022 conference",conferences
+"Retrieve full conference data for AAAI 2022",conferences
+"Show all information regarding AAAI 2022",conferences
+"Find detailed records for AAAI 2022 conference",conferences
+"Show me the details for KDD 2021 conference",conferences
+"List all information about KDD 2021 conference",conferences
+"Retrieve conference details for KDD 2021",conferences
+"Find the KDD 2021 conference details",conferences
+"What are the details of KDD 2021 conference?",conferences
+"Display full conference information for KDD 2021",conferences
+"Get complete details for KDD 2021 conference",conferences
+"Show conference record for KDD 2021",conferences
+"Retrieve the schedule and details for KDD 2021",conferences
+"List KDD 2021 conference metadata",conferences
+"Fetch detailed information for KDD 2021 conference",conferences
+"Provide the conference details for KDD 2021",conferences
+"What is the complete info for KDD 2021 conference?",conferences
+"Show me KDD 2021 conference information",conferences
+"Get details and metadata for KDD 2021 conference",conferences
+"List all available details of KDD 2021 conference",conferences
+"Display the schedule and venue for KDD 2021 conference",conferences
+"Retrieve full conference data for KDD 2021",conferences
+"Show all information regarding KDD 2021",conferences
+"Find detailed records for KDD 2021 conference",conferences
+"Show me the details for SIGGRAPH 2022 conference",conferences
+"List all information about SIGGRAPH 2022 conference",conferences
+"Retrieve conference details for SIGGRAPH 2022",conferences
+"Find the SIGGRAPH 2022 conference details",conferences
+"What are the details of SIGGRAPH 2022 conference?",conferences
+"Display full conference information for SIGGRAPH 2022",conferences
+"Get complete details for SIGGRAPH 2022 conference",conferences
+"Show conference record for SIGGRAPH 2022",conferences
+"Retrieve the schedule and details for SIGGRAPH 2022",conferences
+"List SIGGRAPH 2022 conference metadata",conferences
+"Fetch detailed information for SIGGRAPH 2022 conference",conferences
+"Provide the conference details for SIGGRAPH 2022",conferences
+"What is the complete info for SIGGRAPH 2022 conference?",conferences
+"Show me SIGGRAPH 2022 conference information",conferences
+"Get details and metadata for SIGGRAPH 2022 conference",conferences
+"List all available details of SIGGRAPH 2022 conference",conferences
+"Display the schedule and venue for SIGGRAPH 2022 conference",conferences
+"Retrieve full conference data for SIGGRAPH 2022",conferences
+"Show all information regarding SIGGRAPH 2022",conferences
+"Find detailed records for SIGGRAPH 2022 conference",conferences
+"Show me the details for University of Oxford",organizations
+"List all information about University of Oxford",organizations
+"Retrieve organization details for University of Oxford",organizations
+"Find the University of Oxford organization details",organizations
+"What are the details of University of Oxford?",organizations
+"Display full organization information for University of Oxford",organizations
+"Get complete details for University of Oxford organization",organizations
+"Show organization record for University of Oxford",organizations
+"Retrieve the summary and details for University of Oxford",organizations
+"List University of Oxford organization metadata",organizations
+"Fetch detailed information for University of Oxford",organizations
+"Provide the organization details for University of Oxford",organizations
+"What is the complete info for University of Oxford organization?",organizations
+"Show me University of Oxford organization information",organizations
+"Get details and metadata for University of Oxford",organizations
+"List all available details of University of Oxford organization",organizations
+"Display the description and details for University of Oxford",organizations
+"Retrieve full organization data for University of Oxford",organizations
+"Show all information regarding University of Oxford",organizations
+"Find detailed records for University of Oxford organization",organizations
+"Show me the details for Harvard University",organizations
+"List all information about Harvard University",organizations
+"Retrieve organization details for Harvard University",organizations
+"Find the Harvard University organization details",organizations
+"What are the details of Harvard University?",organizations
+"Display full organization information for Harvard University",organizations
+"Get complete details for Harvard University organization",organizations
+"Show organization record for Harvard University",organizations
+"Retrieve the summary and details for Harvard University",organizations
+"List Harvard University organization metadata",organizations
+"Fetch detailed information for Harvard University",organizations
+"Provide the organization details for Harvard University",organizations
+"What is the complete info for Harvard University organization?",organizations
+"Show me Harvard University organization information",organizations
+"Get details and metadata for Harvard University",organizations
+"List all available details of Harvard University organization",organizations
+"Display the description and details for Harvard University",organizations
+"Retrieve full organization data for Harvard University",organizations
+"Show all information regarding Harvard University",organizations
+"Find detailed records for Harvard University organization",organizations
+"Show me the details for Stanford University",organizations
+"List all information about Stanford University",organizations
+"Retrieve organization details for Stanford University",organizations
+"Find the Stanford University organization details",organizations
+"What are the details of Stanford University?",organizations
+"Display full organization information for Stanford University",organizations
+"Get complete details for Stanford University organization",organizations
+"Show organization record for Stanford University",organizations
+"Retrieve the summary and details for Stanford University",organizations
+"List Stanford University organization metadata",organizations
+"Fetch detailed information for Stanford University",organizations
+"Provide the organization details for Stanford University",organizations
+"What is the complete info for Stanford University organization?",organizations
+"Show me Stanford University organization information",organizations
+"Get details and metadata for Stanford University",organizations
+"List all available details of Stanford University organization",organizations
+"Display the description and details for Stanford University",organizations
+"Retrieve full organization data for Stanford University",organizations
+"Show all information regarding Stanford University",organizations
+"Find detailed records for Stanford University organization",organizations
+"Show me the details for MIT",organizations
+"List all information about MIT",organizations
+"Retrieve organization details for MIT",organizations
+"Find the MIT organization details",organizations
+"What are the details of MIT?",organizations
+"Display full organization information for MIT",organizations
+"Get complete details for MIT organization",organizations
+"Show organization record for MIT",organizations
+"Retrieve the summary and details for MIT",organizations
+"List MIT organization metadata",organizations
+"Fetch detailed information for MIT",organizations
+"Provide the organization details for MIT",organizations
+"What is the complete info for MIT organization?",organizations
+"Show me MIT organization information",organizations
+"Get details and metadata for MIT",organizations
+"List all available details of MIT organization",organizations
+"Display the description and details for MIT",organizations
+"Retrieve full organization data for MIT",organizations
+"Show all information regarding MIT",organizations
+"Find detailed records for MIT organization",organizations
+"Show me the details for University of Cambridge",organizations
+"List all information about University of Cambridge",organizations
+"Retrieve organization details for University of Cambridge",organizations
+"Find the University of Cambridge organization details",organizations
+"What are the details of University of Cambridge?",organizations
+"Display full organization information for University of Cambridge",organizations
+"Get complete details for University of Cambridge organization",organizations
+"Show organization record for University of Cambridge",organizations
+"Retrieve the summary and details for University of Cambridge",organizations
+"List University of Cambridge organization metadata",organizations
+"Fetch detailed information for University of Cambridge",organizations
+"Provide the organization details for University of Cambridge",organizations
+"What is the complete info for University of Cambridge organization?",organizations
+"Show me University of Cambridge organization information",organizations
+"Get details and metadata for University of Cambridge",organizations
+"List all available details of University of Cambridge organization",organizations
+"Display the description and details for University of Cambridge",organizations
+"Retrieve full organization data for University of Cambridge",organizations
+"Show all information regarding University of Cambridge",organizations
+"Find detailed records for University of Cambridge organization",organizations
+"Show me the details for Princeton University",organizations
+"List all information about Princeton University",organizations
+"Retrieve organization details for Princeton University",organizations
+"Find the Princeton University organization details",organizations
+"What are the details of Princeton University?",organizations
+"Display full organization information for Princeton University",organizations
+"Get complete details for Princeton University organization",organizations
+"Show organization record for Princeton University",organizations
+"Retrieve the summary and details for Princeton University",organizations
+"List Princeton University organization metadata",organizations
+"Fetch detailed information for Princeton University",organizations
+"Provide the organization details for Princeton University",organizations
+"What is the complete info for Princeton University organization?",organizations
+"Show me Princeton University organization information",organizations
+"Get details and metadata for Princeton University",organizations
+"List all available details of Princeton University organization",organizations
+"Display the description and details for Princeton University",organizations
+"Retrieve full organization data for Princeton University",organizations
+"Show all information regarding Princeton University",organizations
+"Find detailed records for Princeton University organization",organizations
+"Show me the details for Caltech",organizations
+"List all information about Caltech",organizations
+"Retrieve organization details for Caltech",organizations
+"Find the Caltech organization details",organizations
+"What are the details of Caltech?",organizations
+"Display full organization information for Caltech",organizations
+"Get complete details for Caltech organization",organizations
+"Show organization record for Caltech",organizations
+"Retrieve the summary and details for Caltech",organizations
+"List Caltech organization metadata",organizations
+"Fetch detailed information for Caltech",organizations
+"Provide the organization details for Caltech",organizations
+"What is the complete info for Caltech organization?",organizations
+"Show me Caltech organization information",organizations
+"Get details and metadata for Caltech",organizations
+"List all available details of Caltech organization",organizations
+"Display the description and details for Caltech",organizations
+"Retrieve full organization data for Caltech",organizations
+"Show all information regarding Caltech",organizations
+"Find detailed records for Caltech organization",organizations
+"Show me the details for Yale University",organizations
+"List all information about Yale University",organizations
+"Retrieve organization details for Yale University",organizations
+"Find the Yale University organization details",organizations
+"What are the details of Yale University?",organizations
+"Display full organization information for Yale University",organizations
+"Get complete details for Yale University organization",organizations
+"Show organization record for Yale University",organizations
+"Retrieve the summary and details for Yale University",organizations
+"List Yale University organization metadata",organizations
+"Fetch detailed information for Yale University",organizations
+"Provide the organization details for Yale University",organizations
+"What is the complete info for Yale University organization?",organizations
+"Show me Yale University organization information",organizations
+"Get details and metadata for Yale University",organizations
+"List all available details of Yale University organization",organizations
+"Display the description and details for Yale University",organizations
+"Retrieve full organization data for Yale University",organizations
+"Show all information regarding Yale University",organizations
+"Find detailed records for Yale University organization",organizations
+"Show me the details for Columbia University",organizations
+"List all information about Columbia University",organizations
+"Retrieve organization details for Columbia University",organizations
+"Find the Columbia University organization details",organizations
+"What are the details of Columbia University?",organizations
+"Display full organization information for Columbia University",organizations
+"Get complete details for Columbia University organization",organizations
+"Show organization record for Columbia University",organizations
+"Retrieve the summary and details for Columbia University",organizations
+"List Columbia University organization metadata",organizations
+"Fetch detailed information for Columbia University",organizations
+"Provide the organization details for Columbia University",organizations
+"What is the complete info for Columbia University organization?",organizations
+"Show me Columbia University organization information",organizations
+"Get details and metadata for Columbia University",organizations
+"List all available details of Columbia University organization",organizations
+"Display the description and details for Columbia University",organizations
+"Retrieve full organization data for Columbia University",organizations
+"Show all information regarding Columbia University",organizations
+"Find detailed records for Columbia University organization",organizations
+"Show me the details for University of California, Berkeley",organizations
+"List all information about University of California, Berkeley",organizations
+"Retrieve organization details for University of California, Berkeley",organizations
+"Find the University of California, Berkeley organization details",organizations
+"What are the details of University of California, Berkeley?",organizations
+"Display full organization information for University of California, Berkeley",organizations
+"Get complete details for University of California, Berkeley organization",organizations
+"Show organization record for University of California, Berkeley",organizations
+"Retrieve the summary and details for University of California, Berkeley",organizations
+"List University of California, Berkeley organization metadata",organizations
+"Fetch detailed information for University of California, Berkeley",organizations
+"Provide the organization details for University of California, Berkeley",organizations
+"What is the complete info for University of California, Berkeley organization?",organizations
+"Show me University of California, Berkeley organization information",organizations
+"Get details and metadata for University of California, Berkeley",organizations
+"List all available details of University of California, Berkeley organization",organizations
+"Display the description and details for University of California, Berkeley",organizations
+"Retrieve full organization data for University of California, Berkeley",organizations
+"Show all information regarding University of California, Berkeley",organizations
+"Find detailed records for University of California, Berkeley organization",organizations
+"Show me the details for the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"List all information about the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"Retrieve details for the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"Find information on the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"What are the key details of the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'?",papers
+"Display full info for the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"Get complete details for the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"Provide the summary for the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"Fetch detailed info for the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"Give me the record for the paper 'Multiple Spreaders Affect the Indirect Influence on Twitter'",papers
+"Show me the details for the paper 'Deep Learning for Image Recognition'",papers
+"List all information about the paper 'Deep Learning for Image Recognition'",papers
+"Retrieve details for the paper 'Deep Learning for Image Recognition'",papers
+"Find information on the paper 'Deep Learning for Image Recognition'",papers
+"What are the key details of the paper 'Deep Learning for Image Recognition'?",papers
+"Display full info for the paper 'Deep Learning for Image Recognition'",papers
+"Get complete details for the paper 'Deep Learning for Image Recognition'",papers
+"Provide the summary for the paper 'Deep Learning for Image Recognition'",papers
+"Fetch detailed info for the paper 'Deep Learning for Image Recognition'",papers
+"Give me the record for the paper 'Deep Learning for Image Recognition'",papers
+"Show me the details for the paper 'Advances in Quantum Computing'",papers
+"List all information about the paper 'Advances in Quantum Computing'",papers
+"Retrieve details for the paper 'Advances in Quantum Computing'",papers
+"Find information on the paper 'Advances in Quantum Computing'",papers
+"What are the key details of the paper 'Advances in Quantum Computing'?",papers
+"Display full info for the paper 'Advances in Quantum Computing'",papers
+"Get complete details for the paper 'Advances in Quantum Computing'",papers
+"Provide the summary for the paper 'Advances in Quantum Computing'",papers
+"Fetch detailed info for the paper 'Advances in Quantum Computing'",papers
+"Give me the record for the paper 'Advances in Quantum Computing'",papers
+"Show me the details for the paper 'A Survey on Machine Learning Techniques'",papers
+"List all information about the paper 'A Survey on Machine Learning Techniques'",papers
+"Retrieve details for the paper 'A Survey on Machine Learning Techniques'",papers
+"Find information on the paper 'A Survey on Machine Learning Techniques'",papers
+"What are the key details of the paper 'A Survey on Machine Learning Techniques'?",papers
+"Display full info for the paper 'A Survey on Machine Learning Techniques'",papers
+"Get complete details for the paper 'A Survey on Machine Learning Techniques'",papers
+"Provide the summary for the paper 'A Survey on Machine Learning Techniques'",papers
+"Fetch detailed info for the paper 'A Survey on Machine Learning Techniques'",papers
+"Give me the record for the paper 'A Survey on Machine Learning Techniques'",papers
+"Show me the details for the paper 'Graph Neural Networks for Social Networks'",papers
+"List all information about the paper 'Graph Neural Networks for Social Networks'",papers
+"Retrieve details for the paper 'Graph Neural Networks for Social Networks'",papers
+"Find information on the paper 'Graph Neural Networks for Social Networks'",papers
+"What are the key details of the paper 'Graph Neural Networks for Social Networks'?",papers
+"Display full info for the paper 'Graph Neural Networks for Social Networks'",papers
+"Get complete details for the paper 'Graph Neural Networks for Social Networks'",papers
+"Provide the summary for the paper 'Graph Neural Networks for Social Networks'",papers
+"Fetch detailed info for the paper 'Graph Neural Networks for Social Networks'",papers
+"Give me the record for the paper 'Graph Neural Networks for Social Networks'",papers
+"Show me the details for the paper 'Reinforcement Learning in Robotics'",papers
+"List all information about the paper 'Reinforcement Learning in Robotics'",papers
+"Retrieve details for the paper 'Reinforcement Learning in Robotics'",papers
+"Find information on the paper 'Reinforcement Learning in Robotics'",papers
+"What are the key details of the paper 'Reinforcement Learning in Robotics'?",papers
+"Display full info for the paper 'Reinforcement Learning in Robotics'",papers
+"Get complete details for the paper 'Reinforcement Learning in Robotics'",papers
+"Provide the summary for the paper 'Reinforcement Learning in Robotics'",papers
+"Fetch detailed info for the paper 'Reinforcement Learning in Robotics'",papers
+"Give me the record for the paper 'Reinforcement Learning in Robotics'",papers
+"Show me the details for the paper 'Natural Language Processing: Trends and Challenges'",papers
+"List all information about the paper 'Natural Language Processing: Trends and Challenges'",papers
+"Retrieve details for the paper 'Natural Language Processing: Trends and Challenges'",papers
+"Find information on the paper 'Natural Language Processing: Trends and Challenges'",papers
+"What are the key details of the paper 'Natural Language Processing: Trends and Challenges'?",papers
+"Display full info for the paper 'Natural Language Processing: Trends and Challenges'",papers
+"Get complete details for the paper 'Natural Language Processing: Trends and Challenges'",papers
+"Provide the summary for the paper 'Natural Language Processing: Trends and Challenges'",papers
+"Fetch detailed info for the paper 'Natural Language Processing: Trends and Challenges'",papers
+"Give me the record for the paper 'Natural Language Processing: Trends and Challenges'",papers
+"Show me the details for the paper 'Optimization Techniques in Big Data'",papers
+"List all information about the paper 'Optimization Techniques in Big Data'",papers
+"Retrieve details for the paper 'Optimization Techniques in Big Data'",papers
+"Find information on the paper 'Optimization Techniques in Big Data'",papers
+"What are the key details of the paper 'Optimization Techniques in Big Data'?",papers
+"Display full info for the paper 'Optimization Techniques in Big Data'",papers
+"Get complete details for the paper 'Optimization Techniques in Big Data'",papers
+"Provide the summary for the paper 'Optimization Techniques in Big Data'",papers
+"Fetch detailed info for the paper 'Optimization Techniques in Big Data'",papers
+"Give me the record for the paper 'Optimization Techniques in Big Data'",papers
+"Show me the details for the paper 'Cybersecurity in the Age of AI'",papers
+"List all information about the paper 'Cybersecurity in the Age of AI'",papers
+"Retrieve details for the paper 'Cybersecurity in the Age of AI'",papers
+"Find information on the paper 'Cybersecurity in the Age of AI'",papers
+"What are the key details of the paper 'Cybersecurity in the Age of AI'?",papers
+"Display full info for the paper 'Cybersecurity in the Age of AI'",papers
+"Get complete details for the paper 'Cybersecurity in the Age of AI'",papers
+"Provide the summary for the paper 'Cybersecurity in the Age of AI'",papers
+"Fetch detailed info for the paper 'Cybersecurity in the Age of AI'",papers
+"Give me the record for the paper 'Cybersecurity in the Age of AI'",papers
+"Show me the details for the paper 'Blockchain Technology and Its Applications'",papers
+"List all information about the paper 'Blockchain Technology and Its Applications'",papers
+"Retrieve details for the paper 'Blockchain Technology and Its Applications'",papers
+"Find information on the paper 'Blockchain Technology and Its Applications'",papers
+"What are the key details of the paper 'Blockchain Technology and Its Applications'?",papers
+"Display full info for the paper 'Blockchain Technology and Its Applications'",papers
+"Get complete details for the paper 'Blockchain Technology and Its Applications'",papers
+"Provide the summary for the paper 'Blockchain Technology and Its Applications'",papers
+"Fetch detailed info for the paper 'Blockchain Technology and Its Applications'",papers
+"Give me the record for the paper 'Blockchain Technology and Its Applications'",papers
+"Give me papers on artificial intelligence predicting weather forecasts",papers
+"List research papers that use AI to forecast weather",papers
+"Find studies on artificial intelligence for weather prediction",papers
+"Show me scholarly articles on AI in weather forecasting",papers
+"Retrieve papers discussing AI-based weather prediction models",papers
+"Display research on using artificial intelligence to predict weather patterns",papers
+"What are some papers on machine learning for weather forecasting?",papers
+"Get articles about artificial intelligence applications in meteorology",papers
+"Fetch research on deep learning methods for predicting weather",papers
+"Provide papers that use neural networks for weather prediction",papers
+"Show studies on AI-driven weather forecasting techniques",papers
+"List academic papers on using AI to analyze weather data",papers
+"Retrieve research on forecasting weather with artificial intelligence",papers
+"Find articles about predictive analytics in weather forecasting",papers
+"Display papers on machine learning models for weather prediction",papers
+"What research is available on AI in meteorology?",papers
+"Get details on papers that explore artificial intelligence for climate prediction",papers
+"Fetch studies on AI applications in weather analysis",papers
+"List scholarly work on using AI for weather forecast improvements",papers
+"Show me research papers about artificial intelligence in weather prediction",papers
+"Give me papers on neural networks for climate prediction",papers
+"List research studies using neural networks to forecast climate",papers
+"Find scholarly articles on neural network models for climate prediction",papers
+"Show me papers about neural networks in climate modeling",papers
+"Retrieve research on using neural networks for weather forecasting",papers
+"Display academic work on neural network approaches to climate prediction",papers
+"What are some papers on deep learning for climate forecasting?",papers
+"Get articles on neural network applications in meteorological prediction",papers
+"Fetch studies on neural networks for predicting weather patterns",papers
+"Provide research on climate prediction using neural networks",papers
+"Show papers that discuss neural networks in weather analysis",papers
+"List academic studies on neural network-based climate forecasting",papers
+"Retrieve articles on applying neural networks for weather prediction",papers
+"Find research on deep neural networks for climate modeling",papers
+"Display papers on the use of neural networks for predicting weather",papers
+"What research exists on neural network methods in meteorology?",papers
+"Get details on scholarly articles about neural networks for climate prediction",papers
+"Fetch academic work on using neural networks to predict weather",papers
+"List research on deep learning neural networks for climate analysis",papers
+"Show me studies on neural network techniques for weather forecasting",papers
+"Give me papers on renewable energy and climate change",papers
+"List research studies on renewable energy's impact on climate",papers
+"Find scholarly articles about renewable energy and climate dynamics",papers
+"Show me papers discussing renewable energy in the context of climate change",papers
+"Retrieve research on the relationship between renewable energy and climate change",papers
+"Display academic work on renewable energy affecting climate patterns",papers
+"What are some papers on renewable energy and global warming?",papers
+"Get articles on the influence of renewable energy on climate change",papers
+"Fetch studies on renewable energy and its effects on climate",papers
+"Provide research on the role of renewable energy in climate change mitigation",papers
+"Show papers that discuss renewable energy and environmental impact",papers
+"List academic studies on renewable energy solutions for climate change",papers
+"Retrieve articles on renewable energy and sustainable climate strategies",papers
+"Find research on how renewable energy affects climate change",papers
+"Display papers on renewable energy contributions to climate stabilization",papers
+"What research exists on renewable energy's role in combating climate change?",papers
+"Get details on scholarly articles about renewable energy and climate impact",papers
+"Fetch academic work on renewable energy and its climate implications",papers
+"List research on renewable energy integration for climate improvement",papers
+"Show me studies on renewable energy and environmental climate solutions",papers
+"Give me papers on data analytics in healthcare",papers
+"List research studies on big data analytics for healthcare",papers
+"Find scholarly articles about data analytics applications in healthcare",papers
+"Show me papers discussing data analytics for medical research",papers
+"Retrieve research on using data analytics to improve healthcare outcomes",papers
+"Display academic work on data analytics in the healthcare sector",papers
+"What are some papers on healthcare data analytics?",papers
+"Get articles on big data applications in healthcare analytics",papers
+"Fetch studies on data-driven approaches in healthcare",papers
+"Provide research on analytics techniques in healthcare",papers
+"Show papers that discuss data analytics for clinical research",papers
+"List academic studies on data analytics in medical fields",papers
+"Retrieve articles on using analytics to enhance healthcare services",papers
+"Find research on data analytics for patient care improvement",papers
+"Display papers on advanced data analytics in healthcare",papers
+"What research exists on healthcare data analytics?",papers
+"Get details on scholarly articles about big data in healthcare",papers
+"Fetch academic work on data analytics applied to medical research",papers
+"List research on data analytics methods in healthcare",papers
+"Show me studies on innovative data analytics in healthcare",papers
+"Give me papers on machine learning applications in finance",papers
+"List research studies on using machine learning in financial forecasting",papers
+"Find scholarly articles about machine learning for stock market prediction",papers
+"Show me papers discussing machine learning in financial analysis",papers
+"Retrieve research on machine learning models for financial risk assessment",papers
+"Display academic work on machine learning in finance",papers
+"What are some papers on machine learning for credit scoring?",papers
+"Get articles on AI and machine learning in the finance sector",papers
+"Fetch studies on machine learning approaches in financial modeling",papers
+"Provide research on the impact of machine learning on financial decision making",papers
+"Show papers that discuss machine learning in banking",papers
+"List academic studies on machine learning for financial market prediction",papers
+"Retrieve articles on the use of machine learning in investment strategies",papers
+"Find research on deep learning for financial analysis",papers
+"Display papers on applying machine learning to financial datasets",papers
+"What research exists on machine learning for financial risk management?",papers
+"Get details on scholarly articles about machine learning in finance",papers
+"Fetch academic work on machine learning applications for financial forecasting",papers
+"List research on AI-driven financial analysis",papers
+"Show me studies on machine learning techniques in the finance industry",papers
+"Show me the papers by John Doe",papers_by_author
+"List all papers authored by John Doe",papers_by_author
+"Retrieve the list of papers by John Doe",papers_by_author
+"Find papers written by John Doe",papers_by_author
+"What are the publications of John Doe?",papers_by_author
+"Display research articles authored by John Doe",papers_by_author
+"Get a list of academic papers by John Doe",papers_by_author
+"Provide details of papers by John Doe",papers_by_author
+"Which papers were written by John Doe?",papers_by_author
+"Fetch all papers by John Doe",papers_by_author
+"Show academic publications by John Doe",papers_by_author
+"List the research papers of John Doe",papers_by_author
+"Retrieve academic articles authored by John Doe",papers_by_author
+"Find John Doe's published papers",papers_by_author
+"What are John Doe's research publications?",papers_by_author
+"Display a list of John Doe's papers",papers_by_author
+"Get research outputs by John Doe",papers_by_author
+"Show me scholarly articles by John Doe",papers_by_author
+"List publications by John Doe",papers_by_author
+"Retrieve John Doe's academic papers",papers_by_author
+"Show me the papers by Jane Smith",papers_by_author
+"List all papers authored by Jane Smith",papers_by_author
+"Retrieve the list of papers by Jane Smith",papers_by_author
+"Find papers written by Jane Smith",papers_by_author
+"What are the publications of Jane Smith?",papers_by_author
+"Display research articles authored by Jane Smith",papers_by_author
+"Get a list of academic papers by Jane Smith",papers_by_author
+"Provide details of papers by Jane Smith",papers_by_author
+"Which papers were written by Jane Smith?",papers_by_author
+"Fetch all papers by Jane Smith",papers_by_author
+"Show academic publications by Jane Smith",papers_by_author
+"List the research papers of Jane Smith",papers_by_author
+"Retrieve academic articles authored by Jane Smith",papers_by_author
+"Find Jane Smith's published papers",papers_by_author
+"What are Jane Smith's research publications?",papers_by_author
+"Display a list of Jane Smith's papers",papers_by_author
+"Get research outputs by Jane Smith",papers_by_author
+"Show me scholarly articles by Jane Smith",papers_by_author
+"List publications by Jane Smith",papers_by_author
+"Retrieve Jane Smith's academic papers",papers_by_author
+"Show me the papers by Alice Johnson",papers_by_author
+"List all papers authored by Alice Johnson",papers_by_author
+"Retrieve the list of papers by Alice Johnson",papers_by_author
+"Find papers written by Alice Johnson",papers_by_author
+"What are the publications of Alice Johnson?",papers_by_author
+"Display research articles authored by Alice Johnson",papers_by_author
+"Get a list of academic papers by Alice Johnson",papers_by_author
+"Provide details of papers by Alice Johnson",papers_by_author
+"Which papers were written by Alice Johnson?",papers_by_author
+"Fetch all papers by Alice Johnson",papers_by_author
+"Show academic publications by Alice Johnson",papers_by_author
+"List the research papers of Alice Johnson",papers_by_author
+"Retrieve academic articles authored by Alice Johnson",papers_by_author
+"Find Alice Johnson's published papers",papers_by_author
+"What are Alice Johnson's research publications?",papers_by_author
+"Display a list of Alice Johnson's papers",papers_by_author
+"Get research outputs by Alice Johnson",papers_by_author
+"Show me scholarly articles by Alice Johnson",papers_by_author
+"List publications by Alice Johnson",papers_by_author
+"Retrieve Alice Johnson's academic papers",papers_by_author
+"Show me the papers by Bob Brown",papers_by_author
+"List all papers authored by Bob Brown",papers_by_author
+"Retrieve the list of papers by Bob Brown",papers_by_author
+"Find papers written by Bob Brown",papers_by_author
+"What are the publications of Bob Brown?",papers_by_author
+"Display research articles authored by Bob Brown",papers_by_author
+"Get a list of academic papers by Bob Brown",papers_by_author
+"Provide details of papers by Bob Brown",papers_by_author
+"Which papers were written by Bob Brown?",papers_by_author
+"Fetch all papers by Bob Brown",papers_by_author
+"Show academic publications by Bob Brown",papers_by_author
+"List the research papers of Bob Brown",papers_by_author
+"Retrieve academic articles authored by Bob Brown",papers_by_author
+"Find Bob Brown's published papers",papers_by_author
+"What are Bob Brown's research publications?",papers_by_author
+"Display a list of Bob Brown's papers",papers_by_author
+"Get research outputs by Bob Brown",papers_by_author
+"Show me scholarly articles by Bob Brown",papers_by_author
+"List publications by Bob Brown",papers_by_author
+"Retrieve Bob Brown's academic papers",papers_by_author
+"Show me the papers by Charlie Davis",papers_by_author
+"List all papers authored by Charlie Davis",papers_by_author
+"Retrieve the list of papers by Charlie Davis",papers_by_author
+"Find papers written by Charlie Davis",papers_by_author
+"What are the publications of Charlie Davis?",papers_by_author
+"Display research articles authored by Charlie Davis",papers_by_author
+"Get a list of academic papers by Charlie Davis",papers_by_author
+"Provide details of papers by Charlie Davis",papers_by_author
+"Which papers were written by Charlie Davis?",papers_by_author
+"Fetch all papers by Charlie Davis",papers_by_author
+"Show academic publications by Charlie Davis",papers_by_author
+"List the research papers of Charlie Davis",papers_by_author
+"Retrieve academic articles authored by Charlie Davis",papers_by_author
+"Find Charlie Davis's published papers",papers_by_author
+"What are Charlie Davis's research publications?",papers_by_author
+"Display a list of Charlie Davis's papers",papers_by_author
+"Get research outputs by Charlie Davis",papers_by_author
+"Show me scholarly articles by Charlie Davis",papers_by_author
+"List publications by Charlie Davis",papers_by_author
+"Retrieve Charlie Davis's academic papers",papers_by_author
+"Show me the papers by David Wilson",papers_by_author
+"List all papers authored by David Wilson",papers_by_author
+"Retrieve the list of papers by David Wilson",papers_by_author
+"Find papers written by David Wilson",papers_by_author
+"What are the publications of David Wilson?",papers_by_author
+"Display research articles authored by David Wilson",papers_by_author
+"Get a list of academic papers by David Wilson",papers_by_author
+"Provide details of papers by David Wilson",papers_by_author
+"Which papers were written by David Wilson?",papers_by_author
+"Fetch all papers by David Wilson",papers_by_author
+"Show academic publications by David Wilson",papers_by_author
+"List the research papers of David Wilson",papers_by_author
+"Retrieve academic articles authored by David Wilson",papers_by_author
+"Find David Wilson's published papers",papers_by_author
+"What are David Wilson's research publications?",papers_by_author
+"Display a list of David Wilson's papers",papers_by_author
+"Get research outputs by David Wilson",papers_by_author
+"Show me scholarly articles by David Wilson",papers_by_author
+"List publications by David Wilson",papers_by_author
+"Retrieve David Wilson's academic papers",papers_by_author
+"Show me the papers by Emily Clark",papers_by_author
+"List all papers authored by Emily Clark",papers_by_author
+"Retrieve the list of papers by Emily Clark",papers_by_author
+"Find papers written by Emily Clark",papers_by_author
+"What are the publications of Emily Clark?",papers_by_author
+"Display research articles authored by Emily Clark",papers_by_author
+"Get a list of academic papers by Emily Clark",papers_by_author
+"Provide details of papers by Emily Clark",papers_by_author
+"Which papers were written by Emily Clark?",papers_by_author
+"Fetch all papers by Emily Clark",papers_by_author
+"Show academic publications by Emily Clark",papers_by_author
+"List the research papers of Emily Clark",papers_by_author
+"Retrieve academic articles authored by Emily Clark",papers_by_author
+"Find Emily Clark's published papers",papers_by_author
+"What are Emily Clark's research publications?",papers_by_author
+"Display a list of Emily Clark's papers",papers_by_author
+"Get research outputs by Emily Clark",papers_by_author
+"Show me scholarly articles by Emily Clark",papers_by_author
+"List publications by Emily Clark",papers_by_author
+"Retrieve Emily Clark's academic papers",papers_by_author
+"Show me the papers by Frank Miller",papers_by_author
+"List all papers authored by Frank Miller",papers_by_author
+"Retrieve the list of papers by Frank Miller",papers_by_author
+"Find papers written by Frank Miller",papers_by_author
+"What are the publications of Frank Miller?",papers_by_author
+"Display research articles authored by Frank Miller",papers_by_author
+"Get a list of academic papers by Frank Miller",papers_by_author
+"Provide details of papers by Frank Miller",papers_by_author
+"Which papers were written by Frank Miller?",papers_by_author
+"Fetch all papers by Frank Miller",papers_by_author
+"Show academic publications by Frank Miller",papers_by_author
+"List the research papers of Frank Miller",papers_by_author
+"Retrieve academic articles authored by Frank Miller",papers_by_author
+"Find Frank Miller's published papers",papers_by_author
+"What are Frank Miller's research publications?",papers_by_author
+"Display a list of Frank Miller's papers",papers_by_author
+"Get research outputs by Frank Miller",papers_by_author
+"Show me scholarly articles by Frank Miller",papers_by_author
+"List publications by Frank Miller",papers_by_author
+"Retrieve Frank Miller's academic papers",papers_by_author
+"Show me the papers by Grace Lee",papers_by_author
+"List all papers authored by Grace Lee",papers_by_author
+"Retrieve the list of papers by Grace Lee",papers_by_author
+"Find papers written by Grace Lee",papers_by_author
+"What are the publications of Grace Lee?",papers_by_author
+"Display research articles authored by Grace Lee",papers_by_author
+"Get a list of academic papers by Grace Lee",papers_by_author
+"Provide details of papers by Grace Lee",papers_by_author
+"Which papers were written by Grace Lee?",papers_by_author
+"Fetch all papers by Grace Lee",papers_by_author
+"Show academic publications by Grace Lee",papers_by_author
+"List the research papers of Grace Lee",papers_by_author
+"Retrieve academic articles authored by Grace Lee",papers_by_author
+"Find Grace Lee's published papers",papers_by_author
+"What are Grace Lee's research publications?",papers_by_author
+"Display a list of Grace Lee's papers",papers_by_author
+"Get research outputs by Grace Lee",papers_by_author
+"Show me scholarly articles by Grace Lee",papers_by_author
+"List publications by Grace Lee",papers_by_author
+"Retrieve Grace Lee's academic papers",papers_by_author
+"Show me the papers by Henry Adams",papers_by_author
+"List all papers authored by Henry Adams",papers_by_author
+"Retrieve the list of papers by Henry Adams",papers_by_author
+"Find papers written by Henry Adams",papers_by_author
+"What are the publications of Henry Adams?",papers_by_author
+"Display research articles authored by Henry Adams",papers_by_author
+"Get a list of academic papers by Henry Adams",papers_by_author
+"Provide details of papers by Henry Adams",papers_by_author
+"Which papers were written by Henry Adams?",papers_by_author
+"Fetch all papers by Henry Adams",papers_by_author
+"Show academic publications by Henry Adams",papers_by_author
+"List the research papers of Henry Adams",papers_by_author
+"Retrieve academic articles authored by Henry Adams",papers_by_author
+"Find Henry Adams's published papers",papers_by_author
+"What are Henry Adams's research publications?",papers_by_author
+"Display a list of Henry Adams's papers",papers_by_author
+"Get research outputs by Henry Adams",papers_by_author
+"Show me scholarly articles by Henry Adams",papers_by_author
+"List publications by Henry Adams",papers_by_author
+"Retrieve Henry Adams's academic papers",papers_by_author
+"Show me the papers from ESWC 2024 conference",papers_by_conference
+"List all papers presented at ESWC 2024",papers_by_conference
+"Retrieve academic papers from ESWC 2024 conference",papers_by_conference
+"Find the conference papers for ESWC 2024",papers_by_conference
+"What are the research papers from ESWC 2024?",papers_by_conference
+"Display the list of papers from ESWC 2024",papers_by_conference
+"Get a list of papers from ESWC 2024 conference",papers_by_conference
+"Provide details of papers presented at ESWC 2024",papers_by_conference
+"Fetch the papers from the ESWC 2024 event",papers_by_conference
+"Which papers were published in ESWC 2024?",papers_by_conference
+"Show the proceedings papers from ESWC 2024",papers_by_conference
+"List the conference papers of ESWC 2024",papers_by_conference
+"Retrieve all papers from ESWC 2024",papers_by_conference
+"Find published papers from the ESWC 2024 conference",papers_by_conference
+"Display ESWC 2024 conference papers",papers_by_conference
+"Get details on academic papers from ESWC 2024",papers_by_conference
+"Provide the research articles from ESWC 2024",papers_by_conference
+"Fetch all academic papers presented at ESWC 2024",papers_by_conference
+"Show me the scholarly papers from ESWC 2024",papers_by_conference
+"List all research papers from the ESWC 2024 conference",papers_by_conference
+"Show me the papers from NeurIPS 2021 conference",papers_by_conference
+"List all papers presented at NeurIPS 2021",papers_by_conference
+"Retrieve academic papers from NeurIPS 2021 conference",papers_by_conference
+"Find the conference papers for NeurIPS 2021",papers_by_conference
+"What are the research papers from NeurIPS 2021?",papers_by_conference
+"Display the list of papers from NeurIPS 2021",papers_by_conference
+"Get a list of papers from NeurIPS 2021 conference",papers_by_conference
+"Provide details of papers presented at NeurIPS 2021",papers_by_conference
+"Fetch the papers from the NeurIPS 2021 event",papers_by_conference
+"Which papers were published in NeurIPS 2021?",papers_by_conference
+"Show the proceedings papers from NeurIPS 2021",papers_by_conference
+"List the conference papers of NeurIPS 2021",papers_by_conference
+"Retrieve all papers from NeurIPS 2021",papers_by_conference
+"Find published papers from the NeurIPS 2021 conference",papers_by_conference
+"Display NeurIPS 2021 conference papers",papers_by_conference
+"Get details on academic papers from NeurIPS 2021",papers_by_conference
+"Provide the research articles from NeurIPS 2021",papers_by_conference
+"Fetch all academic papers presented at NeurIPS 2021",papers_by_conference
+"Show me the scholarly papers from NeurIPS 2021",papers_by_conference
+"List all research papers from the NeurIPS 2021 conference",papers_by_conference
+"Show me the papers from ICML 2022 conference",papers_by_conference
+"List all papers presented at ICML 2022",papers_by_conference
+"Retrieve academic papers from ICML 2022 conference",papers_by_conference
+"Find the conference papers for ICML 2022",papers_by_conference
+"What are the research papers from ICML 2022?",papers_by_conference
+"Display the list of papers from ICML 2022",papers_by_conference
+"Get a list of papers from ICML 2022 conference",papers_by_conference
+"Provide details of papers presented at ICML 2022",papers_by_conference
+"Fetch the papers from the ICML 2022 event",papers_by_conference
+"Which papers were published in ICML 2022?",papers_by_conference
+"Show the proceedings papers from ICML 2022",papers_by_conference
+"List the conference papers of ICML 2022",papers_by_conference
+"Retrieve all papers from ICML 2022",papers_by_conference
+"Find published papers from the ICML 2022 conference",papers_by_conference
+"Display ICML 2022 conference papers",papers_by_conference
+"Get details on academic papers from ICML 2022",papers_by_conference
+"Provide the research articles from ICML 2022",papers_by_conference
+"Fetch all academic papers presented at ICML 2022",papers_by_conference
+"Show me the scholarly papers from ICML 2022",papers_by_conference
+"List all research papers from the ICML 2022 conference",papers_by_conference
+"Show me the papers from ICLR 2023 conference",papers_by_conference
+"List all papers presented at ICLR 2023",papers_by_conference
+"Retrieve academic papers from ICLR 2023 conference",papers_by_conference
+"Find the conference papers for ICLR 2023",papers_by_conference
+"What are the research papers from ICLR 2023?",papers_by_conference
+"Display the list of papers from ICLR 2023",papers_by_conference
+"Get a list of papers from ICLR 2023 conference",papers_by_conference
+"Provide details of papers presented at ICLR 2023",papers_by_conference
+"Fetch the papers from the ICLR 2023 event",papers_by_conference
+"Which papers were published in ICLR 2023?",papers_by_conference
+"Show the proceedings papers from ICLR 2023",papers_by_conference
+"List the conference papers of ICLR 2023",papers_by_conference
+"Retrieve all papers from ICLR 2023",papers_by_conference
+"Find published papers from the ICLR 2023 conference",papers_by_conference
+"Display ICLR 2023 conference papers",papers_by_conference
+"Get details on academic papers from ICLR 2023",papers_by_conference
+"Provide the research articles from ICLR 2023",papers_by_conference
+"Fetch all academic papers presented at ICLR 2023",papers_by_conference
+"Show me the scholarly papers from ICLR 2023",papers_by_conference
+"List all research papers from the ICLR 2023 conference",papers_by_conference
+"Show me the papers from CVPR 2020 conference",papers_by_conference
+"List all papers presented at CVPR 2020",papers_by_conference
+"Retrieve academic papers from CVPR 2020 conference",papers_by_conference
+"Find the conference papers for CVPR 2020",papers_by_conference
+"What are the research papers from CVPR 2020?",papers_by_conference
+"Display the list of papers from CVPR 2020",papers_by_conference
+"Get a list of papers from CVPR 2020 conference",papers_by_conference
+"Provide details of papers presented at CVPR 2020",papers_by_conference
+"Fetch the papers from the CVPR 2020 event",papers_by_conference
+"Which papers were published in CVPR 2020?",papers_by_conference
+"Show the proceedings papers from CVPR 2020",papers_by_conference
+"List the conference papers of CVPR 2020",papers_by_conference
+"Retrieve all papers from CVPR 2020",papers_by_conference
+"Find published papers from the CVPR 2020 conference",papers_by_conference
+"Display CVPR 2020 conference papers",papers_by_conference
+"Get details on academic papers from CVPR 2020",papers_by_conference
+"Provide the research articles from CVPR 2020",papers_by_conference
+"Fetch all academic papers presented at CVPR 2020",papers_by_conference
+"Show me the scholarly papers from CVPR 2020",papers_by_conference
+"List all research papers from the CVPR 2020 conference",papers_by_conference
+"Show me the papers from ACL 2019 conference",papers_by_conference
+"List all papers presented at ACL 2019",papers_by_conference
+"Retrieve academic papers from ACL 2019 conference",papers_by_conference
+"Find the conference papers for ACL 2019",papers_by_conference
+"What are the research papers from ACL 2019?",papers_by_conference
+"Display the list of papers from ACL 2019",papers_by_conference
+"Get a list of papers from ACL 2019 conference",papers_by_conference
+"Provide details of papers presented at ACL 2019",papers_by_conference
+"Fetch the papers from the ACL 2019 event",papers_by_conference
+"Which papers were published in ACL 2019?",papers_by_conference
+"Show the proceedings papers from ACL 2019",papers_by_conference
+"List the conference papers of ACL 2019",papers_by_conference
+"Retrieve all papers from ACL 2019",papers_by_conference
+"Find published papers from the ACL 2019 conference",papers_by_conference
+"Display ACL 2019 conference papers",papers_by_conference
+"Get details on academic papers from ACL 2019",papers_by_conference
+"Provide the research articles from ACL 2019",papers_by_conference
+"Fetch all academic papers presented at ACL 2019",papers_by_conference
+"Show me the scholarly papers from ACL 2019",papers_by_conference
+"List all research papers from the ACL 2019 conference",papers_by_conference
+"Show me the papers from EMNLP 2018 conference",papers_by_conference
+"List all papers presented at EMNLP 2018",papers_by_conference
+"Retrieve academic papers from EMNLP 2018 conference",papers_by_conference
+"Find the conference papers for EMNLP 2018",papers_by_conference
+"What are the research papers from EMNLP 2018?",papers_by_conference
+"Display the list of papers from EMNLP 2018",papers_by_conference
+"Get a list of papers from EMNLP 2018 conference",papers_by_conference
+"Provide details of papers presented at EMNLP 2018",papers_by_conference
+"Fetch the papers from the EMNLP 2018 event",papers_by_conference
+"Which papers were published in EMNLP 2018?",papers_by_conference
+"Show the proceedings papers from EMNLP 2018",papers_by_conference
+"List the conference papers of EMNLP 2018",papers_by_conference
+"Retrieve all papers from EMNLP 2018",papers_by_conference
+"Find published papers from the EMNLP 2018 conference",papers_by_conference
+"Display EMNLP 2018 conference papers",papers_by_conference
+"Get details on academic papers from EMNLP 2018",papers_by_conference
+"Provide the research articles from EMNLP 2018",papers_by_conference
+"Fetch all academic papers presented at EMNLP 2018",papers_by_conference
+"Show me the scholarly papers from EMNLP 2018",papers_by_conference
+"List all research papers from the EMNLP 2018 conference",papers_by_conference
+"Show me the papers from AAAI 2022 conference",papers_by_conference
+"List all papers presented at AAAI 2022",papers_by_conference
+"Retrieve academic papers from AAAI 2022 conference",papers_by_conference
+"Find the conference papers for AAAI 2022",papers_by_conference
+"What are the research papers from AAAI 2022?",papers_by_conference
+"Display the list of papers from AAAI 2022",papers_by_conference
+"Get a list of papers from AAAI 2022 conference",papers_by_conference
+"Provide details of papers presented at AAAI 2022",papers_by_conference
+"Fetch the papers from the AAAI 2022 event",papers_by_conference
+"Which papers were published in AAAI 2022?",papers_by_conference
+"Show the proceedings papers from AAAI 2022",papers_by_conference
+"List the conference papers of AAAI 2022",papers_by_conference
+"Retrieve all papers from AAAI 2022",papers_by_conference
+"Find published papers from the AAAI 2022 conference",papers_by_conference
+"Display AAAI 2022 conference papers",papers_by_conference
+"Get details on academic papers from AAAI 2022",papers_by_conference
+"Provide the research articles from AAAI 2022",papers_by_conference
+"Fetch all academic papers presented at AAAI 2022",papers_by_conference
+"Show me the scholarly papers from AAAI 2022",papers_by_conference
+"List all research papers from the AAAI 2022 conference",papers_by_conference
+"Show me the papers from KDD 2021 conference",papers_by_conference
+"List all papers presented at KDD 2021",papers_by_conference
+"Retrieve academic papers from KDD 2021 conference",papers_by_conference
+"Find the conference papers for KDD 2021",papers_by_conference
+"What are the research papers from KDD 2021?",papers_by_conference
+"Display the list of papers from KDD 2021",papers_by_conference
+"Get a list of papers from KDD 2021 conference",papers_by_conference
+"Provide details of papers presented at KDD 2021",papers_by_conference
+"Fetch the papers from the KDD 2021 event",papers_by_conference
+"Which papers were published in KDD 2021?",papers_by_conference
+"Show the proceedings papers from KDD 2021",papers_by_conference
+"List the conference papers of KDD 2021",papers_by_conference
+"Retrieve all papers from KDD 2021",papers_by_conference
+"Find published papers from the KDD 2021 conference",papers_by_conference
+"Display KDD 2021 conference papers",papers_by_conference
+"Get details on academic papers from KDD 2021",papers_by_conference
+"Provide the research articles from KDD 2021",papers_by_conference
+"Fetch all academic papers presented at KDD 2021",papers_by_conference
+"Show me the scholarly papers from KDD 2021",papers_by_conference
+"List all research papers from the KDD 2021 conference",papers_by_conference
+"Show me the papers from SIGGRAPH 2022 conference",papers_by_conference
+"List all papers presented at SIGGRAPH 2022",papers_by_conference
+"Retrieve academic papers from SIGGRAPH 2022 conference",papers_by_conference
+"Find the conference papers for SIGGRAPH 2022",papers_by_conference
+"What are the research papers from SIGGRAPH 2022?",papers_by_conference
+"Display the list of papers from SIGGRAPH 2022",papers_by_conference
+"Get a list of papers from SIGGRAPH 2022 conference",papers_by_conference
+"Provide details of papers presented at SIGGRAPH 2022",papers_by_conference
+"Fetch the papers from the SIGGRAPH 2022 event",papers_by_conference
+"Which papers were published in SIGGRAPH 2022?",papers_by_conference
+"Show the proceedings papers from SIGGRAPH 2022",papers_by_conference
+"List the conference papers of SIGGRAPH 2022",papers_by_conference
+"Retrieve all papers from SIGGRAPH 2022",papers_by_conference
+"Find published papers from the SIGGRAPH 2022 conference",papers_by_conference
+"Display SIGGRAPH 2022 conference papers",papers_by_conference
+"Get details on academic papers from SIGGRAPH 2022",papers_by_conference
+"Provide the research articles from SIGGRAPH 2022",papers_by_conference
+"Fetch all academic papers presented at SIGGRAPH 2022",papers_by_conference
+"Show me the scholarly papers from SIGGRAPH 2022",papers_by_conference
+"List all research papers from the SIGGRAPH 2022 conference",papers_by_conference
+"Show me the papers from Harvard University",papers_by_organization
+"List all papers published by Harvard University",papers_by_organization
+"Retrieve academic papers affiliated with Harvard University",papers_by_organization
+"Find the research papers from Harvard University",papers_by_organization
+"What are the scholarly articles from Harvard University?",papers_by_organization
+"Display the list of papers from Harvard University",papers_by_organization
+"Get a list of papers from Harvard University",papers_by_organization
+"Provide details of research papers from Harvard University",papers_by_organization
+"Fetch all papers associated with Harvard University",papers_by_organization
+"Which papers were published by Harvard University?",papers_by_organization
+"Show academic publications from Harvard University",papers_by_organization
+"List the research articles from Harvard University",papers_by_organization
+"Retrieve all academic publications from Harvard University",papers_by_organization
+"Find the scholarly papers from Harvard University",papers_by_organization
+"What are the research outputs from Harvard University?",papers_by_organization
+"Display academic papers from Harvard University",papers_by_organization
+"Get research articles from Harvard University",papers_by_organization
+"Provide a catalog of papers from Harvard University",papers_by_organization
+"Fetch detailed information on papers from Harvard University",papers_by_organization
+"Show me published papers from Harvard University",papers_by_organization
+"Show me the papers from MIT",papers_by_organization
+"List all papers published by MIT",papers_by_organization
+"Retrieve academic papers affiliated with MIT",papers_by_organization
+"Find the research papers from MIT",papers_by_organization
+"What are the scholarly articles from MIT?",papers_by_organization
+"Display the list of papers from MIT",papers_by_organization
+"Get a list of papers from MIT",papers_by_organization
+"Provide details of research papers from MIT",papers_by_organization
+"Fetch all papers associated with MIT",papers_by_organization
+"Which papers were published by MIT?",papers_by_organization
+"Show academic publications from MIT",papers_by_organization
+"List the research articles from MIT",papers_by_organization
+"Retrieve all academic publications from MIT",papers_by_organization
+"Find the scholarly papers from MIT",papers_by_organization
+"What are the research outputs from MIT?",papers_by_organization
+"Display academic papers from MIT",papers_by_organization
+"Get research articles from MIT",papers_by_organization
+"Provide a catalog of papers from MIT",papers_by_organization
+"Fetch detailed information on papers from MIT",papers_by_organization
+"Show me published papers from MIT",papers_by_organization
+"Show me the papers from Stanford University",papers_by_organization
+"List all papers published by Stanford University",papers_by_organization
+"Retrieve academic papers affiliated with Stanford University",papers_by_organization
+"Find the research papers from Stanford University",papers_by_organization
+"What are the scholarly articles from Stanford University?",papers_by_organization
+"Display the list of papers from Stanford University",papers_by_organization
+"Get a list of papers from Stanford University",papers_by_organization
+"Provide details of research papers from Stanford University",papers_by_organization
+"Fetch all papers associated with Stanford University",papers_by_organization
+"Which papers were published by Stanford University?",papers_by_organization
+"Show academic publications from Stanford University",papers_by_organization
+"List the research articles from Stanford University",papers_by_organization
+"Retrieve all academic publications from Stanford University",papers_by_organization
+"Find the scholarly papers from Stanford University",papers_by_organization
+"What are the research outputs from Stanford University?",papers_by_organization
+"Display academic papers from Stanford University",papers_by_organization
+"Get research articles from Stanford University",papers_by_organization
+"Provide a catalog of papers from Stanford University",papers_by_organization
+"Fetch detailed information on papers from Stanford University",papers_by_organization
+"Show me published papers from Stanford University",papers_by_organization
+"Show me the papers from University of Oxford",papers_by_organization
+"List all papers published by University of Oxford",papers_by_organization
+"Retrieve academic papers affiliated with University of Oxford",papers_by_organization
+"Find the research papers from University of Oxford",papers_by_organization
+"What are the scholarly articles from University of Oxford?",papers_by_organization
+"Display the list of papers from University of Oxford",papers_by_organization
+"Get a list of papers from University of Oxford",papers_by_organization
+"Provide details of research papers from University of Oxford",papers_by_organization
+"Fetch all papers associated with University of Oxford",papers_by_organization
+"Which papers were published by University of Oxford?",papers_by_organization
+"Show academic publications from University of Oxford",papers_by_organization
+"List the research articles from University of Oxford",papers_by_organization
+"Retrieve all academic publications from University of Oxford",papers_by_organization
+"Find the scholarly papers from University of Oxford",papers_by_organization
+"What are the research outputs from University of Oxford?",papers_by_organization
+"Display academic papers from University of Oxford",papers_by_organization
+"Get research articles from University of Oxford",papers_by_organization
+"Provide a catalog of papers from University of Oxford",papers_by_organization
+"Fetch detailed information on papers from University of Oxford",papers_by_organization
+"Show me published papers from University of Oxford",papers_by_organization
+"Show me the papers from University of Cambridge",papers_by_organization
+"List all papers published by University of Cambridge",papers_by_organization
+"Retrieve academic papers affiliated with University of Cambridge",papers_by_organization
+"Find the research papers from University of Cambridge",papers_by_organization
+"What are the scholarly articles from University of Cambridge?",papers_by_organization
+"Display the list of papers from University of Cambridge",papers_by_organization
+"Get a list of papers from University of Cambridge",papers_by_organization
+"Provide details of research papers from University of Cambridge",papers_by_organization
+"Fetch all papers associated with University of Cambridge",papers_by_organization
+"Which papers were published by University of Cambridge?",papers_by_organization
+"Show academic publications from University of Cambridge",papers_by_organization
+"List the research articles from University of Cambridge",papers_by_organization
+"Retrieve all academic publications from University of Cambridge",papers_by_organization
+"Find the scholarly papers from University of Cambridge",papers_by_organization
+"What are the research outputs from University of Cambridge?",papers_by_organization
+"Display academic papers from University of Cambridge",papers_by_organization
+"Get research articles from University of Cambridge",papers_by_organization
+"Provide a catalog of papers from University of Cambridge",papers_by_organization
+"Fetch detailed information on papers from University of Cambridge",papers_by_organization
+"Show me published papers from University of Cambridge",papers_by_organization
+"Show me the papers from Princeton University",papers_by_organization
+"List all papers published by Princeton University",papers_by_organization
+"Retrieve academic papers affiliated with Princeton University",papers_by_organization
+"Find the research papers from Princeton University",papers_by_organization
+"What are the scholarly articles from Princeton University?",papers_by_organization
+"Display the list of papers from Princeton University",papers_by_organization
+"Get a list of papers from Princeton University",papers_by_organization
+"Provide details of research papers from Princeton University",papers_by_organization
+"Fetch all papers associated with Princeton University",papers_by_organization
+"Which papers were published by Princeton University?",papers_by_organization
+"Show academic publications from Princeton University",papers_by_organization
+"List the research articles from Princeton University",papers_by_organization
+"Retrieve all academic publications from Princeton University",papers_by_organization
+"Find the scholarly papers from Princeton University",papers_by_organization
+"What are the research outputs from Princeton University?",papers_by_organization
+"Display academic papers from Princeton University",papers_by_organization
+"Get research articles from Princeton University",papers_by_organization
+"Provide a catalog of papers from Princeton University",papers_by_organization
+"Fetch detailed information on papers from Princeton University",papers_by_organization
+"Show me published papers from Princeton University",papers_by_organization
+"Show me the papers from Caltech",papers_by_organization
+"List all papers published by Caltech",papers_by_organization
+"Retrieve academic papers affiliated with Caltech",papers_by_organization
+"Find the research papers from Caltech",papers_by_organization
+"What are the scholarly articles from Caltech?",papers_by_organization
+"Display the list of papers from Caltech",papers_by_organization
+"Get a list of papers from Caltech",papers_by_organization
+"Provide details of research papers from Caltech",papers_by_organization
+"Fetch all papers associated with Caltech",papers_by_organization
+"Which papers were published by Caltech?",papers_by_organization
+"Show academic publications from Caltech",papers_by_organization
+"List the research articles from Caltech",papers_by_organization
+"Retrieve all academic publications from Caltech",papers_by_organization
+"Find the scholarly papers from Caltech",papers_by_organization
+"What are the research outputs from Caltech?",papers_by_organization
+"Display academic papers from Caltech",papers_by_organization
+"Get research articles from Caltech",papers_by_organization
+"Provide a catalog of papers from Caltech",papers_by_organization
+"Fetch detailed information on papers from Caltech",papers_by_organization
+"Show me published papers from Caltech",papers_by_organization
+"Show me the papers from Yale University",papers_by_organization
+"List all papers published by Yale University",papers_by_organization
+"Retrieve academic papers affiliated with Yale University",papers_by_organization
+"Find the research papers from Yale University",papers_by_organization
+"What are the scholarly articles from Yale University?",papers_by_organization
+"Display the list of papers from Yale University",papers_by_organization
+"Get a list of papers from Yale University",papers_by_organization
+"Provide details of research papers from Yale University",papers_by_organization
+"Fetch all papers associated with Yale University",papers_by_organization
+"Which papers were published by Yale University?",papers_by_organization
+"Show academic publications from Yale University",papers_by_organization
+"List the research articles from Yale University",papers_by_organization
+"Retrieve all academic publications from Yale University",papers_by_organization
+"Find the scholarly papers from Yale University",papers_by_organization
+"What are the research outputs from Yale University?",papers_by_organization
+"Display academic papers from Yale University",papers_by_organization
+"Get research articles from Yale University",papers_by_organization
+"Provide a catalog of papers from Yale University",papers_by_organization
+"Fetch detailed information on papers from Yale University",papers_by_organization
+"Show me published papers from Yale University",papers_by_organization
+"Show me the papers from Columbia University",papers_by_organization
+"List all papers published by Columbia University",papers_by_organization
+"Retrieve academic papers affiliated with Columbia University",papers_by_organization
+"Find the research papers from Columbia University",papers_by_organization
+"What are the scholarly articles from Columbia University?",papers_by_organization
+"Display the list of papers from Columbia University",papers_by_organization
+"Get a list of papers from Columbia University",papers_by_organization
+"Provide details of research papers from Columbia University",papers_by_organization
+"Fetch all papers associated with Columbia University",papers_by_organization
+"Which papers were published by Columbia University?",papers_by_organization
+"Show academic publications from Columbia University",papers_by_organization
+"List the research articles from Columbia University",papers_by_organization
+"Retrieve all academic publications from Columbia University",papers_by_organization
+"Find the scholarly papers from Columbia University",papers_by_organization
+"What are the research outputs from Columbia University?",papers_by_organization
+"Display academic papers from Columbia University",papers_by_organization
+"Get research articles from Columbia University",papers_by_organization
+"Provide a catalog of papers from Columbia University",papers_by_organization
+"Fetch detailed information on papers from Columbia University",papers_by_organization
+"Show me published papers from Columbia University",papers_by_organization
+"Show me the papers from University of California, Berkeley",papers_by_organization
+"List all papers published by University of California, Berkeley",papers_by_organization
+"Retrieve academic papers affiliated with University of California, Berkeley",papers_by_organization
+"Find the research papers from University of California, Berkeley",papers_by_organization
+"What are the scholarly articles from University of California, Berkeley?",papers_by_organization
+"Display the list of papers from University of California, Berkeley",papers_by_organization
+"Get a list of papers from University of California, Berkeley",papers_by_organization
+"Provide details of research papers from University of California, Berkeley",papers_by_organization
+"Fetch all papers associated with University of California, Berkeley",papers_by_organization
+"Which papers were published by University of California, Berkeley?",papers_by_organization
+"Show academic publications from University of California, Berkeley",papers_by_organization
+"List the research articles from University of California, Berkeley",papers_by_organization
+"Retrieve all academic publications from University of California, Berkeley",papers_by_organization
+"Find the scholarly papers from University of California, Berkeley",papers_by_organization
+"What are the research outputs from University of California, Berkeley?",papers_by_organization
+"Display academic papers from University of California, Berkeley",papers_by_organization
+"Get research articles from University of California, Berkeley",papers_by_organization
+"Provide a catalog of papers from University of California, Berkeley",papers_by_organization
+"Fetch detailed information on papers from University of California, Berkeley",papers_by_organization
+"Show me published papers from University of California, Berkeley",papers_by_organization
+"Show me the details for author John Doe",authors
+"List all information about author John Doe",authors
+"Retrieve the profile for author John Doe",authors
+"Find the author details for John Doe",authors
+"What are the details of author John Doe?",authors
+"Display full information for author John Doe",authors
+"Get complete details for author John Doe",authors
+"Provide the author record for John Doe",authors
+"Fetch data for author John Doe",authors
+"Which publications are linked to author John Doe?",authors
+"Show academic profile for author John Doe",authors
+"List biographical details of author John Doe",authors
+"Retrieve author metadata for John Doe",authors
+"Find biographical info for author John Doe",authors
+"What is the author record for John Doe?",authors
+"Display the profile of author John Doe",authors
+"Get the author information for John Doe",authors
+"Provide detailed info for author John Doe",authors
+"Fetch all details for author John Doe",authors
+"Show me data on author John Doe",authors
+"Show me the details for author Jane Smith",authors
+"List all information about author Jane Smith",authors
+"Retrieve the profile for author Jane Smith",authors
+"Find the author details for Jane Smith",authors
+"What are the details of author Jane Smith?",authors
+"Display full information for author Jane Smith",authors
+"Get complete details for author Jane Smith",authors
+"Provide the author record for Jane Smith",authors
+"Fetch data for author Jane Smith",authors
+"Which publications are linked to author Jane Smith?",authors
+"Show academic profile for author Jane Smith",authors
+"List biographical details of author Jane Smith",authors
+"Retrieve author metadata for Jane Smith",authors
+"Find biographical info for author Jane Smith",authors
+"What is the author record for Jane Smith?",authors
+"Display the profile of author Jane Smith",authors
+"Get the author information for Jane Smith",authors
+"Provide detailed info for author Jane Smith",authors
+"Fetch all details for author Jane Smith",authors
+"Show me data on author Jane Smith",authors
+"Show me the details for author Alice Johnson",authors
+"List all information about author Alice Johnson",authors
+"Retrieve the profile for author Alice Johnson",authors
+"Find the author details for Alice Johnson",authors
+"What are the details of author Alice Johnson?",authors
+"Display full information for author Alice Johnson",authors
+"Get complete details for author Alice Johnson",authors
+"Provide the author record for Alice Johnson",authors
+"Fetch data for author Alice Johnson",authors
+"Which publications are linked to author Alice Johnson?",authors
+"Show academic profile for author Alice Johnson",authors
+"List biographical details of author Alice Johnson",authors
+"Retrieve author metadata for author Alice Johnson",authors
+"Find biographical info for author Alice Johnson",authors
+"What is the author record for Alice Johnson?",authors
+"Display the profile of author Alice Johnson",authors
+"Get the author information for Alice Johnson",authors
+"Provide detailed info for author Alice Johnson",authors
+"Fetch all details for author Alice Johnson",authors
+"Show me data on author Alice Johnson",authors
+"Show me the details for author Bob Brown",authors
+"List all information about author Bob Brown",authors
+"Retrieve the profile for author Bob Brown",authors
+"Find the author details for Bob Brown",authors
+"What are the details of author Bob Brown?",authors
+"Display full information for author Bob Brown",authors
+"Get complete details for author Bob Brown",authors
+"Provide the author record for Bob Brown",authors
+"Fetch data for author Bob Brown",authors
+"Which publications are linked to author Bob Brown?",authors
+"Show academic profile for author Bob Brown",authors
+"List biographical details of author Bob Brown",authors
+"Retrieve author metadata for author Bob Brown",authors
+"Find biographical info for author Bob Brown",authors
+"What is the author record for Bob Brown?",authors
+"Display the profile of author Bob Brown",authors
+"Get the author information for Bob Brown",authors
+"Provide detailed info for author Bob Brown",authors
+"Fetch all details for author Bob Brown",authors
+"Show me data on author Bob Brown",authors
+"Show me the details for author Charlie Davis",authors
+"List all information about author Charlie Davis",authors
+"Retrieve the profile for author Charlie Davis",authors
+"Find the author details for Charlie Davis",authors
+"What are the details of author Charlie Davis?",authors
+"Display full information for author Charlie Davis",authors
+"Get complete details for author Charlie Davis",authors
+"Provide the author record for Charlie Davis",authors
+"Fetch data for author Charlie Davis",authors
+"Which publications are linked to author Charlie Davis?",authors
+"Show academic profile for author Charlie Davis",authors
+"List biographical details of author Charlie Davis",authors
+"Retrieve author metadata for author Charlie Davis",authors
+"Find biographical info for author Charlie Davis",authors
+"What is the author record for Charlie Davis?",authors
+"Display the profile of author Charlie Davis",authors
+"Get the author information for Charlie Davis",authors
+"Provide detailed info for author Charlie Davis",authors
+"Fetch all details for author Charlie Davis",authors
+"Show me data on author Charlie Davis",authors
+"Show me the details for author David Wilson",authors
+"List all information about author David Wilson",authors
+"Retrieve the profile for author David Wilson",authors
+"Find the author details for David Wilson",authors
+"What are the details of author David Wilson?",authors
+"Display full information for author David Wilson",authors
+"Get complete details for author David Wilson",authors
+"Provide the author record for David Wilson",authors
+"Fetch data for author David Wilson",authors
+"Which publications are linked to author David Wilson?",authors
+"Show academic profile for author David Wilson",authors
+"List biographical details of author David Wilson",authors
+"Retrieve author metadata for author David Wilson",authors
+"Find biographical info for author David Wilson",authors
+"What is the author record for David Wilson?",authors
+"Display the profile of author David Wilson",authors
+"Get the author information for David Wilson",authors
+"Provide detailed info for author David Wilson",authors
+"Fetch all details for author David Wilson",authors
+"Show me data on author David Wilson",authors
+"Show me the details for author Emily Clark",authors
+"List all information about author Emily Clark",authors
+"Retrieve the profile for author Emily Clark",authors
+"Find the author details for Emily Clark",authors
+"What are the details of author Emily Clark?",authors
+"Display full information for author Emily Clark",authors
+"Get complete details for author Emily Clark",authors
+"Provide the author record for Emily Clark",authors
+"Fetch data for author Emily Clark",authors
+"Which publications are linked to author Emily Clark?",authors
+"Show academic profile for author Emily Clark",authors
+"List biographical details of author Emily Clark",authors
+"Retrieve author metadata for author Emily Clark",authors
+"Find biographical info for author Emily Clark",authors
+"What is the author record for Emily Clark?",authors
+"Display the profile of author Emily Clark",authors
+"Get the author information for Emily Clark",authors
+"Provide detailed info for author Emily Clark",authors
+"Fetch all details for author Emily Clark",authors
+"Show me data on author Emily Clark",authors
+"Show me the details for author Frank Miller",authors
+"List all information about author Frank Miller",authors
+"Retrieve the profile for author Frank Miller",authors
+"Find the author details for Frank Miller",authors
+"What are the details of author Frank Miller?",authors
+"Display full information for author Frank Miller",authors
+"Get complete details for author Frank Miller",authors
+"Provide the author record for Frank Miller",authors
+"Fetch data for author Frank Miller",authors
+"Which publications are linked to author Frank Miller?",authors
+"Show academic profile for author Frank Miller",authors
+"List biographical details of author Frank Miller",authors
+"Retrieve author metadata for author Frank Miller",authors
+"Find biographical info for author Frank Miller",authors
+"What is the author record for Frank Miller?",authors
+"Display the profile of author Frank Miller",authors
+"Get the author information for Frank Miller",authors
+"Provide detailed info for author Frank Miller",authors
+"Fetch all details for author Frank Miller",authors
+"Show me data on author Frank Miller",authors
+"Show me the details for author Grace Lee",authors
+"List all information about author Grace Lee",authors
+"Retrieve the profile for author Grace Lee",authors
+"Find the author details for Grace Lee",authors
+"What are the details of author Grace Lee?",authors
+"Display full information for author Grace Lee",authors
+"Get complete details for author Grace Lee",authors
+"Provide the author record for Grace Lee",authors
+"Fetch data for author Grace Lee",authors
+"Which publications are linked to author Grace Lee?",authors
+"Show academic profile for author Grace Lee",authors
+"List biographical details of author Grace Lee",authors
+"Retrieve author metadata for author Grace Lee",authors
+"Find biographical info for author Grace Lee",authors
+"What is the author record for Grace Lee?",authors
+"Display the profile of author Grace Lee",authors
+"Get the author information for Grace Lee",authors
+"Provide detailed info for author Grace Lee",authors
+"Fetch all details for author Grace Lee",authors
+"Show me data on author Grace Lee",authors
+"Show me the details for author Henry Adams",authors
+"List all information about author Henry Adams",authors
+"Retrieve the profile for author Henry Adams",authors
+"Find the author details for Henry Adams",authors
+"What are the details of author Henry Adams?",authors
+"Display full information for author Henry Adams",authors
+"Get complete details for author Henry Adams",authors
+"Provide the author record for Henry Adams",authors
+"Fetch data for author Henry Adams",authors
+"Which publications are linked to author Henry Adams?",authors
+"Show academic profile for author Henry Adams",authors
+"List biographical details of author Henry Adams",authors
+"Retrieve author metadata for author Henry Adams",authors
+"Find biographical info for author Henry Adams",authors
+"What is the author record for Henry Adams?",authors
+"Display the profile of author Henry Adams",authors
+"Get the author information for Henry Adams",authors
+"Provide detailed info for author Henry Adams",authors
+"Fetch all details for author Henry Adams",authors
+"Show me data on author Henry Adams",authors
